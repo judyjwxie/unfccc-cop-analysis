@@ -1,0 +1,19 @@
+Id,Label,product,type,eigencentrality,badge,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,pageranks,componentnumber,clustering,triangles
+1,Thailand,NA,Nominator,0,Party overflow/Party,0,0,0,0,0,0,0,0,0.009709,0,0,0
+2,Australia,NA,Nominator,0.356453,Party overflow/Party,3,17,2,0.571429,0.625,0,0.141615,0.141615,0.043121,1,1,3
+3,Brazil,NA,Nominator,1,Party overflow/Party,10,78,2,0.857143,0.916667,29,0.402792,0.402792,0.125884,1,0.355556,16
+4,China,NA,Nominator,0,Party overflow/Party,0,0,0,0,0,0,0,0,0.009709,2,0,0
+5,Denmark,NA,Nominator,0.003525,Party overflow/Party,1,2,1,1,1,0,0,0,0.064725,3,0,0
+6,France,NA,Nominator,0.543417,Party overflow/Party,4,14,3,0.545455,0.638889,0,0.220797,0.220797,0.050858,1,1,6
+7,New Zealand,NA,Nominator,0,Party overflow/Party,0,0,0,0,0,0,0,0,0.009709,4,0,0
+8,League of Arab States,NA,Nominator,0.725656,IGO,5,64,2,0.631579,0.708333,0,0.295667,0.295667,0.061023,1,1,10
+9,Animal Agriculture Alliance,NA,Nominator,0.200878,"Constituency - Business and Industry  ",2,10,3,0.5,0.555556,0,0.079181,0.079181,0.035549,1,1,1
+10,Global Dairy Platform,NA,Nominator,0.003525,"Constituency - Business and Industry  ",1,2,1,1,1,0,0,0,0.064725,3,0,0
+11,Imaflora,NA,Nominator,0.356453,"Constituency - Environmental ",3,17,2,0.571429,0.625,0,0.141615,0.141615,0.043121,1,1,3
+12,ICC,NA,Nominator,0.991016,"Constituency - Business and Industry  ",8,46,2,0.75,0.833333,6,0.402792,0.402792,0.093542,1,0.607143,17
+13,Natural Capitalism Solutions,NA,Nominator,0.543417,"Constituency - Environmental ",4,8,3,0.545455,0.638889,0,0.220797,0.220797,0.050858,1,1,6
+14,North American Meat Institute,NA,Nominator,0.200878,"Constituency - Business and Industry  ",2,10,3,0.5,0.555556,0,0.079181,0.079181,0.035549,1,1,1
+15,Unis-Terre,NA,Nominator,0.725656,"Constituency - Environmental ",5,28,2,0.631579,0.708333,0,0.295667,0.295667,0.061023,1,1,10
+16,WBCSD,NA,Nominator,0.991016,"Constituency - Business and Industry  ",8,42,2,0.75,0.833333,6,0.402792,0.402792,0.093542,1,0.607143,17
+17,Global Climate Action,NA,Nominator,0.725656,Gobal Climate Action,5,15,2,0.631579,0.708333,0,0.295667,0.295667,0.061023,1,1,10
+18,Host Badges (UAE),NA,Nominator,0.788578,Host country (UAE),7,25,2,0.705882,0.791667,8,0.317597,0.317597,0.08633,1,0.52381,11

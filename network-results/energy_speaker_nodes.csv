@@ -1,0 +1,144 @@
+Id,Label,Degree,organisation,org_type,country,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,eigencentrality
+0,,7,Oil Change International (OCI),Constituency - Environmental CAN,United States of America,0.25,3,0.541667,0.615385,0,0.054111
+1,,13,Climate Action Network International (CAN International),Constituency - Environmental CAN,Germany,1.15,3,0.619048,0.730769,0.010688,0.069377
+2,,7,Climate Analytics GmbH,Constituency - Research and independent,Germany,0.25,3,0.541667,0.615385,0,0.054111
+3,,7,Indigenous Environmental Network,Civil Society Campaign,,0.25,3,0.541667,0.615385,0,0.054111
+4,,9,Fossil Fuel Non-Proliferation Treaty Initiative,Civil Society Campaign,,0.75,3,0.565217,0.653846,0.001898,0.059142
+5,,7,International Indigenous Forum of Climate Change,Civil Society Campaign,,0.25,3,0.541667,0.615385,0,0.054111
+6,,17,Don't Gas Africa,Civil Society Campaign,,0.916667,2,0.742857,0.826923,0.020877,0.090642
+7,,7,"Human Rights Watch, Inc. (HRW)",NGO,United States of America,0.25,3,0.541667,0.615385,0,0.054111
+8,,6,World Union of Small and Medium Enterprises (WUSME),Constituency - Business and Industry,San Marino,0.285714,4,0.327485,0.394345,0,0.041032
+9,,6,Association Française des Entreprises pour l'Environnement (EpE),Constituency - Business and Industry,France,0.285714,4,0.327485,0.394345,0,0.041032
+10,,6,Regional Center for Renewable Energy and Energy Efficiency (RCREEE),IGO,Egypt,0.285714,4,0.327485,0.394345,0,0.041032
+11,,6,Solar Impulse Foundation,NGO,,0.285714,4,0.327485,0.394345,0,0.041032
+12,,14,United Nations Industrial Development Organization (UNIDO),UN,International,0.507937,3,0.46281,0.556548,0.029967,0.167424
+14,,6,Engie S.A.,Company,,0.285714,4,0.327485,0.394345,0,0.041032
+15,,6,Veolia,Company,,0.285714,4,0.327485,0.394345,0,0.041032
+16,,4,JW Eco-Technology,Company,,0.4,1,1,1,0,0.008719
+17,,4,Academia Sinica,NGO,,0.4,1,1,1,0,0.008719
+18,,4,Client II,International Campaign,,0.4,1,1,1,0,0.008719
+19,,4,JOOSI,International Campaign,,0.4,1,1,1,0,0.008719
+20,,4,EnerSHelF,International Campaign,,0.4,1,1,1,0,0.008719
+22,,4,World Wind Energy Association (WWEA),Constituency - Business and Industry,Germany,0.4,4,0.40625,0.483974,0,0.017703
+23,,4,International Solar Energy Society e.V. (ISES),Constituency - Environmental,Germany,0.4,4,0.40625,0.483974,0,0.017703
+24,,4,World Bioenergy Association (WBA),Constituency - Business and Industry,Sweden,0.4,4,0.40625,0.483974,0,0.017703
+25,,4,International Hydropower Association (IHA),Constituency - Business and Industry,United Kingdom of Great Britain and Northern Ireland,0.4,4,0.40625,0.483974,0,0.017703
+26,,4,Center for Biological Diversity (CBD),Constituency - Environmental CAN,United States of America,0.4,1,1,1,0,0.008719
+27,,4,California Attorney General,Local Government,,0.4,1,1,1,0,0.008719
+28,,4,Global Alliance for the Rights of Nature (GARN),Civil Society Campaign,,0.4,1,1,1,0,0.008719
+29,,4,Centre for Development and Environment (CDE),Civil Society Campaign,,0.4,1,1,1,0,0.008719
+30,,4,Port Arthur Community Action Network (PACAN),Civil Society Campaign,,0.4,1,1,1,0,0.008719
+31,,6,Australian National University (ANU),Constituency - Research and independent,Australia,0.285714,1,1,1,0,0.022948
+32,,6,Iran Renewable Energy Association (IrREA),Constituency - Environmental,Iran (Islamic Republic of),0.285714,1,1,1,0,0.022948
+33,,6,Iranian Research Organization for Science and Technology (IROST),NGO,,0.285714,1,1,1,0,0.022948
+34,,6,Araz Silicon Industries,Company,,0.285714,1,1,1,0,0.022948
+35,,6,University of Oxford,Constituency - Research and independent,United Kingdom of Great Britain and Northern Ireland,0.285714,1,1,1,0,0.022948
+36,,6,Columbia University,Constituency - Research and independent,United States of America,0.285714,1,1,1,0,0.022948
+37,,6,Center for International Climate and Environmental Research (CICERO),Constituency - Research and independent,Norway,0.285714,1,1,1,0,0.022948
+38,,33,International Renewable Energy Agency (IRENA),IGO,United Arab Emirates,1.140152,3,0.595745,0.75,0.089302,1
+39,,10,Global Wind Energy Council (GWEC),Constituency - Business and Industry,Belgium,0.181818,3,0.478632,0.544643,0,0.254276
+40,,10,Solutions for Our Climate (SFOC),Constituency - Environmental,Republic of Korea,0.181818,3,0.478632,0.544643,0,0.254276
+41,,10,Republic of Korea,Party,Republic of Korea,0.181818,3,0.478632,0.544643,0,0.254276
+42,,10,Third Generation Environmentalism (E3G),Constituency - Environmental CAN,United Kingdom of Great Britain and Northern Ireland,0.181818,3,0.478632,0.544643,0,0.254276
+43,,10,Iniciativa Climática de Mexico (ICM),Constituency - Environmental,Mexico,0.181818,3,0.478632,0.544643,0,0.254276
+44,,18,Danish Energy Agency (DEA),Local Government,,0.40404,2,0.595745,0.660714,0.075817,0.367826
+45,,10,LG Energy Solutions,Company,,0.181818,3,0.478632,0.544643,0,0.254276
+46,,10,Renewable Energy Institute,Constituency - Research and independent,Japan,0.181818,3,0.478632,0.544643,0,0.254276
+47,,10,Chalmers University of Technology,NGO,,0.181818,3,0.478632,0.544643,0,0.254276
+48,,10,Zhejiang University,NGO,,0.181818,3,0.478632,0.544643,0,0.254276
+49,,5,the Guardian,Media,,0.333333,3,0.464286,0.538462,0,0.027279
+50,,5,Greenpeace Africa,NGO,,0.333333,3,0.464286,0.538462,0,0.027279
+52,,5,StopEACOP,Civil Society Campaign,,0.333333,3,0.464286,0.538462,0,0.027279
+53,,5,Germanwatch,Constituency - Environmental CAN,Germany,0.333333,3,0.464286,0.538462,0,0.027279
+54,,5,Innovation for the Development and Protection of the Environment (IDPE),NGO,,0.333333,3,0.464286,0.538462,0,0.027279
+55,,17,United Nations Economic Commission for Europe (ECE),UN,International,0.40404,3,0.474576,0.583333,0.020677,0.25922
+56,,8,GreenCape,Constituency - Business and Industry,South Africa,0.222222,3,0.440945,0.502976,0,0.140273
+57,,17,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),UN,International,0.40404,3,0.474576,0.583333,0.020677,0.25922
+58,,8,German Federal Ministry for Economic Cooperation and Development (BMZ),Local Government,,0.222222,3,0.440945,0.502976,0,0.140273
+59,,8,New Energy and Industrial Technology Development Organization (NEDO),Constituency - Research and independent,Japan,0.222222,3,0.440945,0.502976,0,0.140273
+62,,8,Global Environment Facility (GEF),International Campaign,,0.222222,3,0.440945,0.502976,0,0.140273
+63,,8,European Investment Bank (EIB),IGO,Luxembourg,0.222222,3,0.440945,0.502976,0,0.140273
+64,,2,Ontario Power Generation (OPG),Company,,0.666667,1,1,1,0,0.00246
+65,,2,University of Tokyo (IR3S),Constituency - Research and independent,Japan,0.666667,1,1,1,0,0.00246
+66,,2,"Japan Atomic Industrial Forum, Inc. (JAIF)",Constituency - Business and Industry,Japan,0.666667,1,1,1,0,0.00246
+68,,10,United Nations Economic and Social Commission for Western Asia (ESCWA),UN,International,0.181818,4,0.341463,0.438988,0,0.160469
+70,,10,United Nations Environment Programme (UNEP),UN,International,0.181818,4,0.341463,0.438988,0,0.160469
+71,,10,United Nations Economic Commission for Africa (ECA),UN,International,0.181818,4,0.341463,0.438988,0,0.160469
+72,,10,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),UN,International,0.181818,4,0.341463,0.438988,0,0.160469
+73,,10,Saudi Arabia,Party,Saudi Arabia,0.181818,4,0.341463,0.438988,0,0.160469
+74,,10,African Export-Import Bank,International Campaign,,0.181818,4,0.341463,0.438988,0,0.160469
+75,,10,International Monetary Fund (IMF),UN,International,0.181818,4,0.341463,0.438988,0,0.160469
+76,,10,University of Queensland,Constituency - Research and independent,Australia,0.181818,4,0.341463,0.438988,0,0.160469
+77,,10,London School of Economics and Political Science (LSE),Constituency - Research and independent,United Kingdom of Great Britain and Northern Ireland,0.181818,4,0.341463,0.438988,0,0.160469
+78,,4,The Association for Renewable Energy and Clean Technology (REA),Constituency - Business and Industry,United Kingdom of Great Britain and Northern Ireland,0.4,1,1,1,0,0.008719
+79,,4,Lightsource bp,Company,,0.4,1,1,1,0,0.008719
+80,,4,University of Plymouth,Constituency - Research and independent,United Kingdom of Great Britain and Northern Ireland,0.4,1,1,1,0,0.008719
+81,,4,Coastal Development Partnership (CDPBD),Constituency - Environmental CAN,Bangladesh,0.4,1,1,1,0,0.008719
+82,,4,Budweiser,Company,,0.4,1,1,1,0,0.008719
+83,,7,American Nuclear Society (ANS),Constituency - Research and independent,United States of America,0.25,1,1,1,0,0.035339
+84,,7,European Nuclear Society (ENS),Constituency - Business and Industry,Belgium,0.25,1,1,1,0,0.035339
+85,,7,University of Cambridge,Constituency - Business and Industry,United Kingdom of Great Britain and Northern Ireland,0.25,1,1,1,0,0.035339
+86,,7,Nuclear for Climate,Civil Society Campaign,,0.25,1,1,1,0,0.035339
+87,,7,Urenco,Company,,0.25,1,1,1,0,0.035339
+88,,7,EDF,Company,,0.25,1,1,1,0,0.035339
+89,,7,Idaho National Laboratory,NGO,,0.25,1,1,1,0,0.035339
+90,,7,Anthropocene Institute,NGO,,0.25,1,1,1,0,0.035339
+91,,4,Philippines,Party,Philippines,0.4,1,1,1,0,0.008719
+92,,4,International Council for Mining and Metals (ICMM),Constituency - Business and Industry,United Kingdom of Great Britain and Northern Ireland,0.4,1,1,1,0,0.008719
+93,,4,Global Witness,Constituency - Environmental,United Kingdom of Great Britain and Northern Ireland,0.4,1,1,1,0,0.008719
+94,,4,SSE Renewables,Company,,0.4,1,1,1,0,0.008719
+95,,4,The Extractive Industries Transparency Initiative * (EITI),Constituency - Research and independent,Norway,0.4,1,1,1,0,0.008719
+96,,5,Alliance to Save Energy (ASE),Constituency - Business and Industry,United States of America,0.333333,4,0.386207,0.453869,0,0.101579
+98,,5,Clean Energy Council,NGO,,0.333333,4,0.386207,0.453869,0,0.101579
+100,,5,Association of Energy Engineers (AEE),Constituency - Business and Industry,United States of America,0.333333,4,0.386207,0.453869,0,0.101579
+101,,5,Goldwind Australia,Company,,0.333333,4,0.386207,0.453869,0,0.101579
+102,,5,Capital Power,Company,,0.333333,4,0.386207,0.453869,0,0.101579
+103,,3,Global Ecovillage Network (GEN - International),Constituency - Environmental,United Kingdom of Great Britain and Northern Ireland,0.5,1,1,1,0,0.004918
+104,,3,International Network for Sustainable Energy (INFORSE),Constituency - Environmental,Denmark,0.5,1,1,1,0,0.004918
+105,,3,Nordic Folkecenter for Renewable Energy (NFVE),Constituency - Environmental,Denmark,0.5,1,1,1,0,0.004918
+106,,3,Integrated Sustainable Energy and Ecological Development Association (INSEDA),Constituency - Environmental,India,0.5,1,1,1,0,0.004918
+107,,4,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech),Constituency - Research and independent,France,0.4,1,1,1,0,0.008719
+108,,4,Federal University of Rio de Janeiro (UFRJ),Constituency - Research and independent,Brazil,0.4,1,1,1,0,0.008719
+109,,4,Indian Institute of Management Ahmedabad (IIMA),NGO,,0.4,1,1,1,0,0.008719
+111,,4,Centre International de Recherche sur l'Environnement et le Développement (CIRED),Constituency - Research and independent,France,0.4,1,1,1,0,0.008719
+112,,4,OXFAM International (OI),Constituency - Environmental,Kenya,0.4,1,1,1,0,0.008719
+113,,3,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC),UN,International,0.5,4,0.380952,0.436012,0,0.081603
+114,,3,International Energy Agency (IEA),IGO,France,0.5,4,0.380952,0.436012,0,0.081603
+116,,3,Ethiopia,Party,Ethiopia,0.5,4,0.380952,0.436012,0,0.081603
+117,,15,United Nations (UN),UN,International,0.125,4,0.414815,0.543155,0,0.75397
+119,,15,Danish Society of Engineers,Constituency - Trade Unions,Denmark,0.125,4,0.414815,0.543155,0,0.75397
+120,,15,Longi,Company,,0.125,4,0.414815,0.543155,0,0.75397
+121,,15,China Photovoltaic Industry Association (CPIA),NGO,,0.125,4,0.414815,0.543155,0,0.75397
+122,,15,Bloomberg NEF,Company,,0.125,4,0.414815,0.543155,0,0.75397
+123,,15,China New Energy Chamber of Commerce (CNECC),Constituency - Business and Industry,China,0.125,4,0.414815,0.543155,0,0.75397
+124,,15,ClimateWorks Foundation,Constituency - Environmental,United States of America,0.125,4,0.414815,0.543155,0,0.75397
+125,,15,JinkoSolar,Company,,0.125,4,0.414815,0.543155,0,0.75397
+126,,15,Sungrow Power Supplies,Company,,0.125,4,0.414815,0.543155,0,0.75397
+127,,15,AMEA Power,Company,,0.125,4,0.414815,0.543155,0,0.75397
+128,,15,Strategic Security Systems,Company,,0.125,4,0.414815,0.543155,0,0.75397
+129,,15,NaaS Technology Inc.,Company,,0.125,4,0.414815,0.543155,0,0.75397
+130,,15,Chinese Renewable Energy Industries Association,NGO,,0.125,4,0.414815,0.543155,0,0.75397
+131,,15,International Society for Energy Transition Studies,NGO,,0.125,4,0.414815,0.543155,0,0.75397
+132,,15,Institute for Essential Services Reform (IESR),NGO,,0.125,4,0.414815,0.543155,0,0.75397
+133,,3,Leave it in the ground Intiative,Civil Society Campaign,,0.5,4,0.356164,0.423077,0,0.009066
+135,,3,Youth for Environment & Sustainable Development (YSD),Civil Society Campaign,,0.5,4,0.356164,0.423077,0,0.009066
+136,,8,Friends of the Earth International (FOEI),Constituency - Environmental CJN,Netherlands,0.833333,3,0.52,0.615385,0.006892,0.033953
+137,,3,Deutsche Umwelthilfe e.V.,NGO,,0.5,4,0.356164,0.423077,0,0.009066
+138,,4,Youth Climate Lab (YCL),Constituency - Youth,Canada,0.4,1,1,1,0,0.008719
+139,,4,Environmental Defence Canada,NGO,,0.4,1,1,1,0,0.008719
+140,,4,Africa Network for Environment and Economic Justice (ANEEJ),International Campaign,,0.4,1,1,1,0,0.008719
+141,,4,Waterkeeper Alliance,Constituency - Environmental,United States of America,0.4,1,1,1,0,0.008719
+143,,4,United Kingdom Youth Climate Coalition Limited (UKYCC),Constituency - Youth,United Kingdom of Great Britain and Northern Ireland,0.4,1,1,1,0,0.008719
+144,,6,Green Solutions International SKN Incorporated,Company,,0.285714,1,1,1,0,0.022948
+145,,6,Saint Kitts and Nevis,Party,Saint Kitts and Nevis,0.285714,1,1,1,0,0.022948
+146,,6,Foundation of Taiwan Industry Service (FTIS),Constituency - Environmental,China,0.285714,1,1,1,0,0.022948
+147,,6,The St. Kitts Electricity Company,Company,,0.285714,1,1,1,0,0.022948
+148,,6,Palau Public Utilities Corporation,Company,,0.285714,1,1,1,0,0.022948
+149,,6,Taiwan International Cooperation and Development Fund (Taiwan ICDF),International Campaign,,0.285714,1,1,1,0,0.022948
+150,,6,Taipei City Government,Local Government,,0.285714,1,1,1,0,0.022948
+151,,5,Fridays for Future,Civil Society Campaign,,0.333333,3,0.490566,0.557692,0,0.028841
+153,,5,Movimiento Ciudadano frente al Cambio Climático,Civil Society Campaign,,0.333333,3,0.490566,0.557692,0,0.028841
+155,,5,Pacific Climate Warriors,Civil Society Campaign,,0.333333,3,0.490566,0.557692,0,0.028841
+156,,5,Fédération des travailleurs et des travailleuses du Québec (FTQ),Constituency - Trade Unions,Canada,0.333333,3,0.490566,0.557692,0,0.028841
+158,,3,International Institute for Sustainable Development (IISD),Constituency - Research and independent,Canada,0.5,4,0.4,0.464744,0,0.0191
+159,,3,International Trade Union Confederation (ITUC),Constituency - Trade Unions,Belgium,0.5,4,0.4,0.464744,0,0.0191

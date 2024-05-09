@@ -1,0 +1,78 @@
+Id,Label,type,eigencentrality,modularity_class,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,pageranks,componentnumber,triangles,badge,Weighted Degree,Degree
+1,Bosnia and Herzegovina,Nominator,0.035339,18,5,0.322581,0.374167,0,0.006818,0.006818,0.013393,0,10,Party Overflow/Party,6,5
+2,Brazil,Nominator,0.010609,0,5,0.294118,0.314167,0,0.00353,0.00353,0.00453,0,0,Party Overflow/Party,20,1
+3,Kazakhstan,Nominator,0.040143,11,5,0.340909,0.3775,0,0.012984,0.012984,0.008871,0,3,Party Overflow/Party,5,3
+4,Morocco,Nominator,0.103892,19,5,0.408163,0.462222,0,0.035152,0.035152,0.010858,0,6,Party Overflow/Party,272,4
+5,Nigeria,Nominator,0.349813,16,4,0.472441,0.522222,0,0.127258,0.127258,0.012511,0,21,Party Overflow/Party,15,7
+6,Romania,Nominator,0,1,0,0,0,0,0,0,0.00219,1,0,Party Overflow/Party,0,0
+7,Russian Federation,Nominator,0.076808,19,5,0.4,0.437222,0,0.027149,0.027149,0.003924,0,0,Party Overflow/Party,21,1
+8,Togo,Nominator,0.398857,11,4,0.491803,0.547222,0,0.142368,0.142368,0.01587,0,36,Party Overflow/Party,36,9
+9,Argentina,Nominator,0.131396,19,5,0.41958,0.467778,0,0.046069,0.046069,0.007877,0,3,Party Overflow/Party,6,3
+10,Australia,Nominator,0.444009,16,4,0.47619,0.536111,0,0.162523,0.162523,0.01505,0,36,Party Overflow/Party,12,9
+11,Austria,Nominator,0.076808,19,5,0.4,0.437222,0,0.027149,0.027149,0.003924,0,0,Party Overflow/Party,3,1
+12,Belgium,Nominator,0,2,0,0,0,0,0,0,0.00219,2,0,Party Overflow/Party,0,0
+13,Bhutan,Nominator,0.040143,11,5,0.340909,0.3775,0,0.012984,0.012984,0.008871,0,3,Party Overflow/Party,5,3
+14,Canada,Nominator,0.13285,19,5,0.422535,0.476111,59,0.046317,0.046317,0.011601,0,3,Party Overflow/Party,11,4
+15,China,Nominator,0.001045,3,1,1,1,0,0,0,0.014599,3,0,Party Overflow/Party,9,1
+16,Colombia,Nominator,0.103892,19,5,0.408163,0.462222,0,0.035152,0.035152,0.010858,0,6,Party Overflow/Party,41,4
+17,Ecuador,Nominator,0.410119,11,4,0.504202,0.572222,171,0.145116,0.145116,0.023268,0,39,Party Overflow/Party,24,12
+18,European Union,Nominator,0.621613,16,3,0.535714,0.605556,83.685714,0.226139,0.226139,0.024417,0,65,Party Overflow/Party,41,15
+19,Finland,Nominator,0,4,0,0,0,0,0,0,0.00219,4,0,Party Overflow/Party,0,0
+20,France,Nominator,0.570167,11,4,0.530973,0.616667,94.588095,0.202982,0.202982,0.029737,0,59,Party Overflow/Party,145,17
+21,Greece,Nominator,0.398857,11,4,0.491803,0.547222,0,0.142368,0.142368,0.01587,0,36,Party Overflow/Party,19,9
+22,Honduras,Nominator,0.00715,18,6,0.247934,0.282778,0,0.000566,0.000566,0.00807,0,1,Party Overflow/Party,2,2
+23,Indonesia,Nominator,0.001045,5,1,1,1,0,0,0,0.014599,5,0,Party Overflow/Party,1,1
+24,Italy,Nominator,0.188768,16,4,0.451128,0.509722,371,0.062486,0.062486,0.018019,0,13,Party Overflow/Party,22,8
+25,Japan,Nominator,0.001045,6,1,1,1,0,0,0,0.014599,6,0,Party Overflow/Party,7,1
+26,Libya,Nominator,0.217121,11,4,0.422535,0.475,0,0.07756,0.07756,0.011194,0,15,Party Overflow/Party,11,6
+27,Madagascar,Nominator,0.398857,11,4,0.491803,0.547222,0,0.142368,0.142368,0.01587,0,36,Party Overflow/Party,19,9
+28,Malaysia,Nominator,0.08397,7,5,0.402685,0.445556,0,0.029379,0.029379,0.006827,0,1,Party Overflow/Party,46,2
+29,Netherlands (Kingdom of the),Nominator,0,8,0,0,0,0,0,0,0.00219,7,0,Party Overflow/Party,0,0
+30,Norway,Nominator,0.211649,16,4,0.408163,0.451389,0,0.07762,0.07762,0.007714,0,6,Party Overflow/Party,35,4
+31,Oman,Nominator,0.349813,16,4,0.472441,0.522222,0,0.127258,0.127258,0.012511,0,21,Party Overflow/Party,15,7
+32,Poland,Nominator,0,9,0,0,0,0,0,0,0.00219,8,0,Party Overflow/Party,0,0
+33,Republic of Korea,Nominator,0,10,0,0,0,0,0,0,0.00219,9,0,Party Overflow/Party,0,0
+34,South Africa,Nominator,0.060679,16,4,0.379747,0.404167,0,0.021908,0.021908,0.003655,0,0,Party Overflow/Party,5,1
+35,Sri Lanka,Nominator,0.040143,11,5,0.340909,0.3775,0,0.012984,0.012984,0.008871,0,3,Party Overflow/Party,9,3
+36,Thailand,Nominator,0,12,0,0,0,0,0,0,0.00219,10,0,Party Overflow/Party,0,0
+37,United Arab Emirates,Nominator,0.103892,19,5,0.408163,0.462222,0,0.035152,0.035152,0.010858,0,6,Party Overflow/Party,272,4
+38,World Bank Group,Nominator,0.103892,19,5,0.408163,0.462222,0,0.035152,0.035152,0.010858,0,6,IGO,41,4
+39,Alana,Nominator,0.001045,5,1,1,1,0,0,0,0.014599,5,0,"Constituency - Environmental ",1,1
+40,All China Environment Federation,Nominator,0.001045,3,1,1,1,0,0,0,0.014599,3,0,"Constituency - Environmental ",9,1
+41,American Conservation Coalition Inc.,Nominator,0.076808,19,5,0.4,0.437222,0,0.027149,0.027149,0.003924,0,0,"Constituency - Environmental ",2,1
+42,Asociación Regional de Empresas de Petróleo y Gas Natural en Latinoamérica y el Caribe,Nominator,0.1302,0,4,0.413793,0.456944,59,0.046509,0.046509,0.011016,0,3,"Constituency - Business and Industry ",25,4
+43,Association Française des Entreprises pour l'Environnement,Nominator,0.217121,11,4,0.422535,0.475,0,0.07756,0.07756,0.011194,0,15,"Constituency - Business and Industry ",11,6
+44,Bay Area Council Foundation,Nominator,0.035339,18,5,0.322581,0.374167,0,0.006818,0.006818,0.013393,0,10,"Constituency - Business and Industry ",6,5
+45,Brazilian Business Council for Sustainable Development,Nominator,0.08397,7,5,0.402685,0.445556,0,0.029379,0.029379,0.006827,0,1,"Constituency - Business and Industry ",24,2
+46,Buildings Performance Institute Europe A.S.B.L.,Nominator,0.444009,16,4,0.47619,0.536111,0,0.162523,0.162523,0.01505,0,36,"Constituency - Research and independent ",12,9
+47,BusinessEurope,Nominator,0.695491,16,4,0.517241,0.613889,24.430952,0.254136,0.254136,0.02872,0,81,"Constituency - Business and Industry ",64,18
+48,Carbon Capture and Storage Association,Nominator,0.499549,16,4,0.483871,0.552778,7.290476,0.182316,0.182316,0.01819,0,42,"Constituency - Business and Industry ",38,11
+49,Chamber of Commerce of the United States of America,Nominator,0.00715,18,6,0.247934,0.282778,0,0.000566,0.000566,0.00807,0,1,"Constituency - Business and Industry ",2,2
+50,Clean Resource Innovation Network,Nominator,0.010969,19,6,0.298507,0.322778,0,0.003515,0.003515,0.004656,0,0,"Constituency - Business and Industry ",1,1
+51,Comité 21 / Club France Développement Durable,Nominator,0.217121,11,4,0.422535,0.475,0,0.07756,0.07756,0.011194,0,15,"Constituency - Business and Industry ",11,6
+52,Confederación Española de Organizaciones Empresariales,Nominator,0.076808,19,5,0.4,0.437222,0,0.027149,0.027149,0.003924,0,0,"Constituency - Business and Industry ",1,1
+53,Demand Response and Smart Grid Coalition,Nominator,0.217121,11,4,0.422535,0.475,0,0.07756,0.07756,0.011194,0,15,"Constituency - Business and Industry ",11,6
+54,DRIS/Desarrollo Rural Sustentable,Nominator,0.398857,11,4,0.491803,0.547222,0,0.142368,0.142368,0.01587,0,36,"Constituency - Environmental ",19,9
+55,Edison Electric Institute,Nominator,0.03836,18,5,0.326087,0.390833,116,0.006898,0.006898,0.020099,0,11,"Constituency - Business and Industry ",8,7
+56,Edison Foundation *,Nominator,0.035339,18,5,0.322581,0.374167,0,0.006818,0.006818,0.013393,0,10,"Constituency - Business and Industry ",6,5
+57,European Roundtable on Climate Change and Sustainable Transition,Nominator,0.379145,16,4,0.47619,0.530556,0,0.137674,0.137674,0.014001,0,28,"Constituency - Research and independent ",45,8
+58,Federation of Indian Chambers of Commerce and Industry,Nominator,0.08397,14,5,0.402685,0.445556,0,0.029379,0.029379,0.006827,0,1,"Constituency - Business and Industry ",7,2
+59,Grace Richardson Fund,Nominator,0,13,0,0,0,0,0,0,0.00219,11,0,"Constituency - Research and independent ",0,0
+60,Greenriver Environmental Protection Promotion Association of Sichuan,Nominator,0.398857,11,4,0.491803,0.547222,0,0.142368,0.142368,0.01587,0,36,"Constituency - Environmental ",19,9
+61,International Chamber of Commerce,Nominator,0.802648,16,3,0.606061,0.691667,359.583333,0.288672,0.288672,0.041396,0,93,"Constituency - Business and Industry ",104,24
+62,International Council of Chemical Associations,Nominator,0.379145,16,4,0.47619,0.530556,0,0.137674,0.137674,0.014001,0,28,"Constituency - Business and Industry ",32,8
+63,International Emissions Trading Association,Nominator,0.863043,11,4,0.566038,0.680556,128.359524,0.311942,0.311942,0.039744,0,110,"Constituency - Business and Industry ",77,25
+64,International Hydropower Association,Nominator,0.08397,14,5,0.402685,0.445556,0,0.029379,0.029379,0.006827,0,1,"Constituency - Business and Industry ",12,2
+65,IPIECA Limited (IPIECA),Nominator,0.759456,16,3,0.582524,0.675,274.442857,0.27436,0.27436,0.038286,0,89,"Constituency - Business and Industry ",100,23
+66,Keidanren,Nominator,0.001045,6,1,1,1,0,0,0,0.014599,6,0,"Constituency - Business and Industry ",7,1
+67,Nigerian Conservation Foundation,Nominator,0.128777,16,4,0.410959,0.448611,0,0.04626,0.04626,0.00741,0,3,"Constituency - Environmental ",8,3
+68,Pembina Institute for Appropriate Development,Nominator,0,15,0,0,0,0,0,0,0.00219,12,0,"Constituency - Environmental ",0,0
+69,Shell Foundation,Nominator,0.349813,16,4,0.472441,0.522222,0,0.127258,0.127258,0.012511,0,21,"Constituency - Environmental ",48,7
+70,The Association for Renewable Energy and Clean Technology,Nominator,0,17,0,0,0,0,0,0,0.00219,13,0,"Constituency - Business and Industry ",0,0
+71,The UK Emissions Trading Group,Nominator,0.574122,16,4,0.495868,0.572222,5.485714,0.209816,0.209816,0.021112,0,56,"Constituency - Business and Industry ",37,13
+72,United States Council for International Business,Nominator,0.379145,16,4,0.47619,0.530556,0,0.137674,0.137674,0.014001,0,28,"Constituency - Business and Industry ",32,8
+73,University of Niigata Prefecture,Nominator,0.076808,19,5,0.4,0.437222,0,0.027149,0.027149,0.003924,0,0,"Constituency - Research and independent ",4,1
+74,US-ASEAN Business Council,Nominator,0.379145,16,4,0.47619,0.530556,0,0.137674,0.137674,0.014001,0,28,"Constituency - Business and Industry ",17,8
+75,West London Business,Nominator,0.444009,16,4,0.47619,0.536111,0,0.162523,0.162523,0.01505,0,36,"Constituency - Business and Industry ",12,9
+76,Global Climate Action,Nominator,0.035339,18,5,0.322581,0.374167,0,0.006818,0.006818,0.013393,0,10,Global Climate Action,10,5
+77,Host country guests,Nominator,1,19,4,0.659341,0.8,835.133333,0.357728,0.357728,0.079566,0,126,"Host country guests ",650,39

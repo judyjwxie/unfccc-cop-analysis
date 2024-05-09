@@ -1,0 +1,526 @@
+Source,Target,Type,Id,Label,Weight,video_num,target_org,se_code,topics,source_org
+0,1,Undirected,0,,0.035714,337,Climate Action Network International (CAN International),COP28-019,19,Oil Change International (OCI)
+0,2,Undirected,1,,0.035714,337,Climate Analytics GmbH,COP28-019,19,Oil Change International (OCI)
+0,3,Undirected,2,,0.035714,337,Indigenous Environmental Network,COP28-019,19,Oil Change International (OCI)
+0,4,Undirected,3,,0.035714,337,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-019,19,Oil Change International (OCI)
+0,5,Undirected,4,,0.035714,337,International Indigenous Forum of Climate Change,COP28-019,19,Oil Change International (OCI)
+0,6,Undirected,5,,0.035714,337,Don't Gas Africa,COP28-019,19,Oil Change International (OCI)
+0,7,Undirected,6,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Oil Change International (OCI)
+1,2,Undirected,7,,0.035714,337,Climate Analytics GmbH,COP28-019,19,Climate Action Network International (CAN International)
+1,3,Undirected,8,,0.035714,337,Indigenous Environmental Network,COP28-019,19,Climate Action Network International (CAN International)
+1,4,Undirected,9,,0.202381,58,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-339,19,Climate Action Network International (CAN International)
+1,5,Undirected,10,,0.035714,337,International Indigenous Forum of Climate Change,COP28-019,19,Climate Action Network International (CAN International)
+1,6,Undirected,11,,0.035714,337,Don't Gas Africa,COP28-019,19,Climate Action Network International (CAN International)
+1,7,Undirected,12,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Climate Action Network International (CAN International)
+2,3,Undirected,13,,0.035714,337,Indigenous Environmental Network,COP28-019,19,Climate Analytics GmbH
+2,4,Undirected,14,,0.035714,337,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-019,19,Climate Analytics GmbH
+2,5,Undirected,15,,0.035714,337,International Indigenous Forum of Climate Change,COP28-019,19,Climate Analytics GmbH
+2,6,Undirected,16,,0.035714,337,Don't Gas Africa,COP28-019,19,Climate Analytics GmbH
+2,7,Undirected,17,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Climate Analytics GmbH
+3,4,Undirected,18,,0.035714,337,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-019,19,Indigenous Environmental Network
+3,5,Undirected,19,,0.035714,337,International Indigenous Forum of Climate Change,COP28-019,19,Indigenous Environmental Network
+3,6,Undirected,20,,0.035714,337,Don't Gas Africa,COP28-019,19,Indigenous Environmental Network
+3,7,Undirected,21,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Indigenous Environmental Network
+4,5,Undirected,22,,0.035714,337,International Indigenous Forum of Climate Change,COP28-019,19,Fossil Fuel Non-Proliferation Treaty Initiative
+4,6,Undirected,23,,0.035714,337,Don't Gas Africa,COP28-019,19,Fossil Fuel Non-Proliferation Treaty Initiative
+4,7,Undirected,24,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Fossil Fuel Non-Proliferation Treaty Initiative
+5,6,Undirected,25,,0.035714,337,Don't Gas Africa,COP28-019,19,International Indigenous Forum of Climate Change
+5,7,Undirected,26,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,International Indigenous Forum of Climate Change
+6,7,Undirected,27,,0.035714,337,"Human Rights Watch, Inc. (HRW)",COP28-019,19,Don't Gas Africa
+8,9,Undirected,28,,0.047619,299,Association Française des Entreprises pour l'Environnement (EpE),COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+8,10,Undirected,29,,0.047619,299,Regional Center for Renewable Energy and Energy Efficiency (RCREEE),COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+8,11,Undirected,30,,0.047619,299,Solar Impulse Foundation,COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+8,12,Undirected,31,,0.047619,299,United Nations Industrial Development Organization (UNIDO),COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+8,14,Undirected,32,,0.047619,299,Engie S.A.,COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+8,15,Undirected,33,,0.047619,299,Veolia,COP28-036,2,World Union of Small and Medium Enterprises (WUSME)
+9,10,Undirected,34,,0.047619,299,Regional Center for Renewable Energy and Energy Efficiency (RCREEE),COP28-036,2,Association Française des Entreprises pour l'Environnement (EpE)
+9,11,Undirected,35,,0.047619,299,Solar Impulse Foundation,COP28-036,2,Association Française des Entreprises pour l'Environnement (EpE)
+9,12,Undirected,36,,0.047619,299,United Nations Industrial Development Organization (UNIDO),COP28-036,2,Association Française des Entreprises pour l'Environnement (EpE)
+9,14,Undirected,37,,0.047619,299,Engie S.A.,COP28-036,2,Association Française des Entreprises pour l'Environnement (EpE)
+9,15,Undirected,38,,0.047619,299,Veolia,COP28-036,2,Association Française des Entreprises pour l'Environnement (EpE)
+10,11,Undirected,39,,0.047619,299,Solar Impulse Foundation,COP28-036,2,Regional Center for Renewable Energy and Energy Efficiency (RCREEE)
+10,12,Undirected,40,,0.047619,299,United Nations Industrial Development Organization (UNIDO),COP28-036,2,Regional Center for Renewable Energy and Energy Efficiency (RCREEE)
+10,14,Undirected,41,,0.047619,299,Engie S.A.,COP28-036,2,Regional Center for Renewable Energy and Energy Efficiency (RCREEE)
+10,15,Undirected,42,,0.047619,299,Veolia,COP28-036,2,Regional Center for Renewable Energy and Energy Efficiency (RCREEE)
+11,12,Undirected,43,,0.047619,299,United Nations Industrial Development Organization (UNIDO),COP28-036,2,Solar Impulse Foundation
+11,14,Undirected,44,,0.047619,299,Engie S.A.,COP28-036,2,Solar Impulse Foundation
+11,15,Undirected,45,,0.047619,299,Veolia,COP28-036,2,Solar Impulse Foundation
+12,14,Undirected,46,,0.047619,299,Engie S.A.,COP28-036,2,United Nations Industrial Development Organization (UNIDO)
+12,15,Undirected,47,,0.047619,299,Veolia,COP28-036,2,United Nations Industrial Development Organization (UNIDO)
+14,15,Undirected,48,,0.047619,299,Veolia,COP28-036,2,Engie S.A.
+16,17,Undirected,49,,0.1,307,Academia Sinica,COP28-046,62,JW Eco-Technology
+16,18,Undirected,50,,0.1,307,Client II,COP28-046,62,JW Eco-Technology
+16,19,Undirected,51,,0.1,307,JOOSI,COP28-046,62,JW Eco-Technology
+16,20,Undirected,52,,0.1,307,EnerSHelF,COP28-046,62,JW Eco-Technology
+17,18,Undirected,53,,0.1,307,Client II,COP28-046,62,Academia Sinica
+17,19,Undirected,54,,0.1,307,JOOSI,COP28-046,62,Academia Sinica
+17,20,Undirected,55,,0.1,307,EnerSHelF,COP28-046,62,Academia Sinica
+18,19,Undirected,56,,0.1,307,JOOSI,COP28-046,62,Client II
+18,20,Undirected,57,,0.1,307,EnerSHelF,COP28-046,62,Client II
+19,20,Undirected,58,,0.1,307,EnerSHelF,COP28-046,62,JOOSI
+1,22,Undirected,59,,0.1,289,World Wind Energy Association (WWEA),COP28-047,2,Climate Action Network International (CAN International)
+1,23,Undirected,60,,0.1,289,International Solar Energy Society e.V. (ISES),COP28-047,2,Climate Action Network International (CAN International)
+1,24,Undirected,61,,0.1,289,World Bioenergy Association (WBA),COP28-047,2,Climate Action Network International (CAN International)
+1,25,Undirected,62,,0.1,289,International Hydropower Association (IHA),COP28-047,2,Climate Action Network International (CAN International)
+22,23,Undirected,63,,0.1,289,International Solar Energy Society e.V. (ISES),COP28-047,2,World Wind Energy Association (WWEA)
+22,24,Undirected,64,,0.1,289,World Bioenergy Association (WBA),COP28-047,2,World Wind Energy Association (WWEA)
+22,25,Undirected,65,,0.1,289,International Hydropower Association (IHA),COP28-047,2,World Wind Energy Association (WWEA)
+23,24,Undirected,66,,0.1,289,World Bioenergy Association (WBA),COP28-047,2,International Solar Energy Society e.V. (ISES)
+23,25,Undirected,67,,0.1,289,International Hydropower Association (IHA),COP28-047,2,International Solar Energy Society e.V. (ISES)
+24,25,Undirected,68,,0.1,289,International Hydropower Association (IHA),COP28-047,2,World Bioenergy Association (WBA)
+26,27,Undirected,69,,0.1,327,California Attorney General,COP28-050,19,Center for Biological Diversity (CBD)
+26,28,Undirected,70,,0.1,327,Global Alliance for the Rights of Nature (GARN),COP28-050,19,Center for Biological Diversity (CBD)
+26,29,Undirected,71,,0.1,327,Centre for Development and Environment (CDE),COP28-050,19,Center for Biological Diversity (CBD)
+26,30,Undirected,72,,0.1,327,Port Arthur Community Action Network (PACAN),COP28-050,19,Center for Biological Diversity (CBD)
+27,28,Undirected,73,,0.1,327,Global Alliance for the Rights of Nature (GARN),COP28-050,19,California Attorney General
+27,29,Undirected,74,,0.1,327,Centre for Development and Environment (CDE),COP28-050,19,California Attorney General
+27,30,Undirected,75,,0.1,327,Port Arthur Community Action Network (PACAN),COP28-050,19,California Attorney General
+28,29,Undirected,76,,0.1,327,Centre for Development and Environment (CDE),COP28-050,19,Global Alliance for the Rights of Nature (GARN)
+28,30,Undirected,77,,0.1,327,Port Arthur Community Action Network (PACAN),COP28-050,19,Global Alliance for the Rights of Nature (GARN)
+29,30,Undirected,78,,0.1,327,Port Arthur Community Action Network (PACAN),COP28-050,19,Centre for Development and Environment (CDE)
+31,32,Undirected,79,,0.047619,205,Iran Renewable Energy Association (IrREA),COP28-096,19,Australian National University (ANU)
+31,33,Undirected,80,,0.047619,205,Iranian Research Organization for Science and Technology (IROST),COP28-096,19,Australian National University (ANU)
+31,34,Undirected,81,,0.047619,205,Araz Silicon Industries,COP28-096,19,Australian National University (ANU)
+31,35,Undirected,82,,0.047619,205,University of Oxford,COP28-096,19,Australian National University (ANU)
+31,36,Undirected,83,,0.047619,205,Columbia University,COP28-096,19,Australian National University (ANU)
+31,37,Undirected,84,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,Australian National University (ANU)
+32,33,Undirected,85,,0.047619,205,Iranian Research Organization for Science and Technology (IROST),COP28-096,19,Iran Renewable Energy Association (IrREA)
+32,34,Undirected,86,,0.047619,205,Araz Silicon Industries,COP28-096,19,Iran Renewable Energy Association (IrREA)
+32,35,Undirected,87,,0.047619,205,University of Oxford,COP28-096,19,Iran Renewable Energy Association (IrREA)
+32,36,Undirected,88,,0.047619,205,Columbia University,COP28-096,19,Iran Renewable Energy Association (IrREA)
+32,37,Undirected,89,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,Iran Renewable Energy Association (IrREA)
+33,34,Undirected,90,,0.047619,205,Araz Silicon Industries,COP28-096,19,Iranian Research Organization for Science and Technology (IROST)
+33,35,Undirected,91,,0.047619,205,University of Oxford,COP28-096,19,Iranian Research Organization for Science and Technology (IROST)
+33,36,Undirected,92,,0.047619,205,Columbia University,COP28-096,19,Iranian Research Organization for Science and Technology (IROST)
+33,37,Undirected,93,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,Iranian Research Organization for Science and Technology (IROST)
+34,35,Undirected,94,,0.047619,205,University of Oxford,COP28-096,19,Araz Silicon Industries
+34,36,Undirected,95,,0.047619,205,Columbia University,COP28-096,19,Araz Silicon Industries
+34,37,Undirected,96,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,Araz Silicon Industries
+35,36,Undirected,97,,0.047619,205,Columbia University,COP28-096,19,University of Oxford
+35,37,Undirected,98,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,University of Oxford
+36,37,Undirected,99,,0.047619,205,Center for International Climate and Environmental Research (CICERO),COP28-096,19,Columbia University
+38,39,Undirected,100,,0.018182,178,Global Wind Energy Council (GWEC),COP28-099,2,International Renewable Energy Agency (IRENA)
+38,40,Undirected,101,,0.018182,178,Solutions for Our Climate (SFOC),COP28-099,2,International Renewable Energy Agency (IRENA)
+38,41,Undirected,102,,0.018182,178,Republic of Korea,COP28-099,2,International Renewable Energy Agency (IRENA)
+38,42,Undirected,103,,0.018182,178,Third Generation Environmentalism (E3G),COP28-099,2,International Renewable Energy Agency (IRENA)
+38,43,Undirected,104,,0.018182,178,Iniciativa Climática de Mexico (ICM),COP28-099,2,International Renewable Energy Agency (IRENA)
+38,44,Undirected,105,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,International Renewable Energy Agency (IRENA)
+38,45,Undirected,106,,0.018182,178,LG Energy Solutions,COP28-099,2,International Renewable Energy Agency (IRENA)
+38,46,Undirected,107,,0.018182,178,Renewable Energy Institute,COP28-099,2,International Renewable Energy Agency (IRENA)
+38,47,Undirected,108,,0.018182,178,Chalmers University of Technology,COP28-099,2,International Renewable Energy Agency (IRENA)
+38,48,Undirected,109,,0.018182,178,Zhejiang University,COP28-099,2,International Renewable Energy Agency (IRENA)
+39,40,Undirected,110,,0.018182,178,Solutions for Our Climate (SFOC),COP28-099,2,Global Wind Energy Council (GWEC)
+39,41,Undirected,111,,0.018182,178,Republic of Korea,COP28-099,2,Global Wind Energy Council (GWEC)
+39,42,Undirected,112,,0.018182,178,Third Generation Environmentalism (E3G),COP28-099,2,Global Wind Energy Council (GWEC)
+39,43,Undirected,113,,0.018182,178,Iniciativa Climática de Mexico (ICM),COP28-099,2,Global Wind Energy Council (GWEC)
+39,44,Undirected,114,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,Global Wind Energy Council (GWEC)
+39,45,Undirected,115,,0.018182,178,LG Energy Solutions,COP28-099,2,Global Wind Energy Council (GWEC)
+39,46,Undirected,116,,0.018182,178,Renewable Energy Institute,COP28-099,2,Global Wind Energy Council (GWEC)
+39,47,Undirected,117,,0.018182,178,Chalmers University of Technology,COP28-099,2,Global Wind Energy Council (GWEC)
+39,48,Undirected,118,,0.018182,178,Zhejiang University,COP28-099,2,Global Wind Energy Council (GWEC)
+40,41,Undirected,119,,0.018182,178,Republic of Korea,COP28-099,2,Solutions for Our Climate (SFOC)
+40,42,Undirected,120,,0.018182,178,Third Generation Environmentalism (E3G),COP28-099,2,Solutions for Our Climate (SFOC)
+40,43,Undirected,121,,0.018182,178,Iniciativa Climática de Mexico (ICM),COP28-099,2,Solutions for Our Climate (SFOC)
+40,44,Undirected,122,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,Solutions for Our Climate (SFOC)
+40,45,Undirected,123,,0.018182,178,LG Energy Solutions,COP28-099,2,Solutions for Our Climate (SFOC)
+40,46,Undirected,124,,0.018182,178,Renewable Energy Institute,COP28-099,2,Solutions for Our Climate (SFOC)
+40,47,Undirected,125,,0.018182,178,Chalmers University of Technology,COP28-099,2,Solutions for Our Climate (SFOC)
+40,48,Undirected,126,,0.018182,178,Zhejiang University,COP28-099,2,Solutions for Our Climate (SFOC)
+41,42,Undirected,127,,0.018182,178,Third Generation Environmentalism (E3G),COP28-099,2,Republic of Korea
+41,43,Undirected,128,,0.018182,178,Iniciativa Climática de Mexico (ICM),COP28-099,2,Republic of Korea
+41,44,Undirected,129,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,Republic of Korea
+41,45,Undirected,130,,0.018182,178,LG Energy Solutions,COP28-099,2,Republic of Korea
+41,46,Undirected,131,,0.018182,178,Renewable Energy Institute,COP28-099,2,Republic of Korea
+41,47,Undirected,132,,0.018182,178,Chalmers University of Technology,COP28-099,2,Republic of Korea
+41,48,Undirected,133,,0.018182,178,Zhejiang University,COP28-099,2,Republic of Korea
+42,43,Undirected,134,,0.018182,178,Iniciativa Climática de Mexico (ICM),COP28-099,2,Third Generation Environmentalism (E3G)
+42,44,Undirected,135,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,Third Generation Environmentalism (E3G)
+42,45,Undirected,136,,0.018182,178,LG Energy Solutions,COP28-099,2,Third Generation Environmentalism (E3G)
+42,46,Undirected,137,,0.018182,178,Renewable Energy Institute,COP28-099,2,Third Generation Environmentalism (E3G)
+42,47,Undirected,138,,0.018182,178,Chalmers University of Technology,COP28-099,2,Third Generation Environmentalism (E3G)
+42,48,Undirected,139,,0.018182,178,Zhejiang University,COP28-099,2,Third Generation Environmentalism (E3G)
+43,44,Undirected,140,,0.018182,178,Danish Energy Agency (DEA),COP28-099,2,Iniciativa Climática de Mexico (ICM)
+43,45,Undirected,141,,0.018182,178,LG Energy Solutions,COP28-099,2,Iniciativa Climática de Mexico (ICM)
+43,46,Undirected,142,,0.018182,178,Renewable Energy Institute,COP28-099,2,Iniciativa Climática de Mexico (ICM)
+43,47,Undirected,143,,0.018182,178,Chalmers University of Technology,COP28-099,2,Iniciativa Climática de Mexico (ICM)
+43,48,Undirected,144,,0.018182,178,Zhejiang University,COP28-099,2,Iniciativa Climática de Mexico (ICM)
+44,45,Undirected,145,,0.018182,178,LG Energy Solutions,COP28-099,2,Danish Energy Agency (DEA)
+44,46,Undirected,146,,0.018182,178,Renewable Energy Institute,COP28-099,2,Danish Energy Agency (DEA)
+44,47,Undirected,147,,0.018182,178,Chalmers University of Technology,COP28-099,2,Danish Energy Agency (DEA)
+44,48,Undirected,148,,0.018182,178,Zhejiang University,COP28-099,2,Danish Energy Agency (DEA)
+45,46,Undirected,149,,0.018182,178,Renewable Energy Institute,COP28-099,2,LG Energy Solutions
+45,47,Undirected,150,,0.018182,178,Chalmers University of Technology,COP28-099,2,LG Energy Solutions
+45,48,Undirected,151,,0.018182,178,Zhejiang University,COP28-099,2,LG Energy Solutions
+46,47,Undirected,152,,0.018182,178,Chalmers University of Technology,COP28-099,2,Renewable Energy Institute
+46,48,Undirected,153,,0.018182,178,Zhejiang University,COP28-099,2,Renewable Energy Institute
+47,48,Undirected,154,,0.018182,178,Zhejiang University,COP28-099,2,Chalmers University of Technology
+49,50,Undirected,155,,0.066667,200,Greenpeace Africa,COP28-101,19,the Guardian
+49,6,Undirected,156,,0.066667,200,Don't Gas Africa,COP28-101,19,the Guardian
+49,52,Undirected,157,,0.066667,200,StopEACOP,COP28-101,19,the Guardian
+49,53,Undirected,158,,0.066667,200,Germanwatch,COP28-101,19,the Guardian
+49,54,Undirected,159,,0.066667,200,Innovation for the Development and Protection of the Environment (IDPE),COP28-101,19,the Guardian
+50,6,Undirected,160,,0.066667,200,Don't Gas Africa,COP28-101,19,Greenpeace Africa
+50,52,Undirected,161,,0.066667,200,StopEACOP,COP28-101,19,Greenpeace Africa
+50,53,Undirected,162,,0.066667,200,Germanwatch,COP28-101,19,Greenpeace Africa
+50,54,Undirected,163,,0.066667,200,Innovation for the Development and Protection of the Environment (IDPE),COP28-101,19,Greenpeace Africa
+6,52,Undirected,164,,0.066667,200,StopEACOP,COP28-101,19,Don't Gas Africa
+6,53,Undirected,165,,0.066667,200,Germanwatch,COP28-101,19,Don't Gas Africa
+6,54,Undirected,166,,0.066667,200,Innovation for the Development and Protection of the Environment (IDPE),COP28-101,19,Don't Gas Africa
+52,53,Undirected,167,,0.066667,200,Germanwatch,COP28-101,19,StopEACOP
+52,54,Undirected,168,,0.066667,200,Innovation for the Development and Protection of the Environment (IDPE),COP28-101,19,StopEACOP
+53,54,Undirected,169,,0.066667,200,Innovation for the Development and Protection of the Environment (IDPE),COP28-101,19,Germanwatch
+55,56,Undirected,170,,0.027778,203,GreenCape,COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,57,Undirected,171,,0.04596,203,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,58,Undirected,172,,0.027778,203,German Federal Ministry for Economic Cooperation and Development (BMZ),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,59,Undirected,173,,0.027778,203,New Energy and Industrial Technology Development Organization (NEDO),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,44,Undirected,174,,0.027778,203,Danish Energy Agency (DEA),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,12,Undirected,175,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,62,Undirected,176,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+55,63,Undirected,177,,0.027778,203,European Investment Bank (EIB),COP28-116,2,United Nations Economic Commission for Europe (ECE)
+56,57,Undirected,178,,0.027778,203,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),COP28-116,2,GreenCape
+56,58,Undirected,179,,0.027778,203,German Federal Ministry for Economic Cooperation and Development (BMZ),COP28-116,2,GreenCape
+56,59,Undirected,180,,0.027778,203,New Energy and Industrial Technology Development Organization (NEDO),COP28-116,2,GreenCape
+56,44,Undirected,181,,0.027778,203,Danish Energy Agency (DEA),COP28-116,2,GreenCape
+56,12,Undirected,182,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,GreenCape
+56,62,Undirected,183,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,GreenCape
+56,63,Undirected,184,,0.027778,203,European Investment Bank (EIB),COP28-116,2,GreenCape
+57,58,Undirected,185,,0.027778,203,German Federal Ministry for Economic Cooperation and Development (BMZ),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,59,Undirected,186,,0.027778,203,New Energy and Industrial Technology Development Organization (NEDO),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,44,Undirected,187,,0.027778,203,Danish Energy Agency (DEA),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,12,Undirected,188,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,62,Undirected,189,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,63,Undirected,190,,0.027778,203,European Investment Bank (EIB),COP28-116,2,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+58,59,Undirected,191,,0.027778,203,New Energy and Industrial Technology Development Organization (NEDO),COP28-116,2,German Federal Ministry for Economic Cooperation and Development (BMZ)
+58,44,Undirected,192,,0.027778,203,Danish Energy Agency (DEA),COP28-116,2,German Federal Ministry for Economic Cooperation and Development (BMZ)
+58,12,Undirected,193,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,German Federal Ministry for Economic Cooperation and Development (BMZ)
+58,62,Undirected,194,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,German Federal Ministry for Economic Cooperation and Development (BMZ)
+58,63,Undirected,195,,0.027778,203,European Investment Bank (EIB),COP28-116,2,German Federal Ministry for Economic Cooperation and Development (BMZ)
+59,44,Undirected,196,,0.027778,203,Danish Energy Agency (DEA),COP28-116,2,New Energy and Industrial Technology Development Organization (NEDO)
+59,12,Undirected,197,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,New Energy and Industrial Technology Development Organization (NEDO)
+59,62,Undirected,198,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,New Energy and Industrial Technology Development Organization (NEDO)
+59,63,Undirected,199,,0.027778,203,European Investment Bank (EIB),COP28-116,2,New Energy and Industrial Technology Development Organization (NEDO)
+44,12,Undirected,200,,0.027778,203,United Nations Industrial Development Organization (UNIDO),COP28-116,2,Danish Energy Agency (DEA)
+44,62,Undirected,201,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,Danish Energy Agency (DEA)
+44,63,Undirected,202,,0.027778,203,European Investment Bank (EIB),COP28-116,2,Danish Energy Agency (DEA)
+12,62,Undirected,203,,0.027778,203,Global Environment Facility (GEF),COP28-116,2,United Nations Industrial Development Organization (UNIDO)
+12,63,Undirected,204,,0.027778,203,European Investment Bank (EIB),COP28-116,2,United Nations Industrial Development Organization (UNIDO)
+62,63,Undirected,205,,0.027778,203,European Investment Bank (EIB),COP28-116,2,Global Environment Facility (GEF)
+64,65,Undirected,206,,0.333333,248,University of Tokyo (IR3S),COP28-162,61,Ontario Power Generation (OPG)
+64,66,Undirected,207,,0.333333,248,"Japan Atomic Industrial Forum, Inc. (JAIF)",COP28-162,61,Ontario Power Generation (OPG)
+65,66,Undirected,208,,0.333333,248,"Japan Atomic Industrial Forum, Inc. (JAIF)",COP28-162,61,University of Tokyo (IR3S)
+57,68,Undirected,209,,0.018182,247,United Nations Economic and Social Commission for Western Asia (ESCWA),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,70,Undirected,211,,0.018182,247,United Nations Environment Programme (UNEP),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,71,Undirected,212,,0.018182,247,United Nations Economic Commission for Africa (ECA),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,72,Undirected,213,,0.018182,247,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,73,Undirected,214,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,74,Undirected,215,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,75,Undirected,216,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,76,Undirected,217,,0.018182,247,University of Queensland,COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+57,77,Undirected,218,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+68,55,Undirected,219,,0.018182,247,United Nations Economic Commission for Europe (ECE),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,70,Undirected,220,,0.018182,247,United Nations Environment Programme (UNEP),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,71,Undirected,221,,0.018182,247,United Nations Economic Commission for Africa (ECA),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,72,Undirected,222,,0.018182,247,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,73,Undirected,223,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,74,Undirected,224,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,75,Undirected,225,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,76,Undirected,226,,0.018182,247,University of Queensland,COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+68,77,Undirected,227,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Economic and Social Commission for Western Asia (ESCWA)
+55,70,Undirected,228,,0.018182,247,United Nations Environment Programme (UNEP),COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,71,Undirected,229,,0.018182,247,United Nations Economic Commission for Africa (ECA),COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,72,Undirected,230,,0.018182,247,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,73,Undirected,231,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,74,Undirected,232,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,75,Undirected,233,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,76,Undirected,234,,0.018182,247,University of Queensland,COP28-183,19,United Nations Economic Commission for Europe (ECE)
+55,77,Undirected,235,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Economic Commission for Europe (ECE)
+70,71,Undirected,236,,0.018182,247,United Nations Economic Commission for Africa (ECA),COP28-183,19,United Nations Environment Programme (UNEP)
+70,72,Undirected,237,,0.018182,247,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),COP28-183,19,United Nations Environment Programme (UNEP)
+70,73,Undirected,238,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Environment Programme (UNEP)
+70,74,Undirected,239,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Environment Programme (UNEP)
+70,75,Undirected,240,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Environment Programme (UNEP)
+70,76,Undirected,241,,0.018182,247,University of Queensland,COP28-183,19,United Nations Environment Programme (UNEP)
+70,77,Undirected,242,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Environment Programme (UNEP)
+71,72,Undirected,243,,0.018182,247,United Nations Economic Commission for Latin America and the Caribbean (ECLAC),COP28-183,19,United Nations Economic Commission for Africa (ECA)
+71,73,Undirected,244,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Economic Commission for Africa (ECA)
+71,74,Undirected,245,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Economic Commission for Africa (ECA)
+71,75,Undirected,246,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Economic Commission for Africa (ECA)
+71,76,Undirected,247,,0.018182,247,University of Queensland,COP28-183,19,United Nations Economic Commission for Africa (ECA)
+71,77,Undirected,248,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Economic Commission for Africa (ECA)
+72,73,Undirected,249,,0.018182,247,Saudi Arabia,COP28-183,19,United Nations Economic Commission for Latin America and the Caribbean (ECLAC)
+72,74,Undirected,250,,0.018182,247,African Export-Import Bank,COP28-183,19,United Nations Economic Commission for Latin America and the Caribbean (ECLAC)
+72,75,Undirected,251,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,United Nations Economic Commission for Latin America and the Caribbean (ECLAC)
+72,76,Undirected,252,,0.018182,247,University of Queensland,COP28-183,19,United Nations Economic Commission for Latin America and the Caribbean (ECLAC)
+72,77,Undirected,253,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,United Nations Economic Commission for Latin America and the Caribbean (ECLAC)
+73,74,Undirected,254,,0.018182,247,African Export-Import Bank,COP28-183,19,Saudi Arabia
+73,75,Undirected,255,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,Saudi Arabia
+73,76,Undirected,256,,0.018182,247,University of Queensland,COP28-183,19,Saudi Arabia
+73,77,Undirected,257,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,Saudi Arabia
+74,75,Undirected,258,,0.018182,247,International Monetary Fund (IMF),COP28-183,19,African Export-Import Bank
+74,76,Undirected,259,,0.018182,247,University of Queensland,COP28-183,19,African Export-Import Bank
+74,77,Undirected,260,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,African Export-Import Bank
+75,76,Undirected,261,,0.018182,247,University of Queensland,COP28-183,19,International Monetary Fund (IMF)
+75,77,Undirected,262,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,International Monetary Fund (IMF)
+76,77,Undirected,263,,0.018182,247,London School of Economics and Political Science (LSE),COP28-183,19,University of Queensland
+78,79,Undirected,264,,0.1,250,Lightsource bp,COP28-194,2,The Association for Renewable Energy and Clean Technology (REA)
+78,80,Undirected,265,,0.1,250,University of Plymouth,COP28-194,2,The Association for Renewable Energy and Clean Technology (REA)
+78,81,Undirected,266,,0.1,250,Coastal Development Partnership (CDPBD),COP28-194,2,The Association for Renewable Energy and Clean Technology (REA)
+78,82,Undirected,267,,0.1,250,Budweiser,COP28-194,2,The Association for Renewable Energy and Clean Technology (REA)
+79,80,Undirected,268,,0.1,250,University of Plymouth,COP28-194,2,Lightsource bp
+79,81,Undirected,269,,0.1,250,Coastal Development Partnership (CDPBD),COP28-194,2,Lightsource bp
+79,82,Undirected,270,,0.1,250,Budweiser,COP28-194,2,Lightsource bp
+80,81,Undirected,271,,0.1,250,Coastal Development Partnership (CDPBD),COP28-194,2,University of Plymouth
+80,82,Undirected,272,,0.1,250,Budweiser,COP28-194,2,University of Plymouth
+81,82,Undirected,273,,0.1,250,Budweiser,COP28-194,2,Coastal Development Partnership (CDPBD)
+83,84,Undirected,274,,0.035714,232,European Nuclear Society (ENS),COP28-196,2,American Nuclear Society (ANS)
+83,85,Undirected,275,,0.035714,232,University of Cambridge,COP28-196,2,American Nuclear Society (ANS)
+83,86,Undirected,276,,0.035714,232,Nuclear for Climate,COP28-196,2,American Nuclear Society (ANS)
+83,87,Undirected,277,,0.035714,232,Urenco,COP28-196,2,American Nuclear Society (ANS)
+83,88,Undirected,278,,0.035714,232,EDF,COP28-196,2,American Nuclear Society (ANS)
+83,89,Undirected,279,,0.035714,232,Idaho National Laboratory,COP28-196,2,American Nuclear Society (ANS)
+83,90,Undirected,280,,0.035714,232,Anthropocene Institute,COP28-196,2,American Nuclear Society (ANS)
+84,85,Undirected,281,,0.035714,232,University of Cambridge,COP28-196,2,European Nuclear Society (ENS)
+84,86,Undirected,282,,0.035714,232,Nuclear for Climate,COP28-196,2,European Nuclear Society (ENS)
+84,87,Undirected,283,,0.035714,232,Urenco,COP28-196,2,European Nuclear Society (ENS)
+84,88,Undirected,284,,0.035714,232,EDF,COP28-196,2,European Nuclear Society (ENS)
+84,89,Undirected,285,,0.035714,232,Idaho National Laboratory,COP28-196,2,European Nuclear Society (ENS)
+84,90,Undirected,286,,0.035714,232,Anthropocene Institute,COP28-196,2,European Nuclear Society (ENS)
+85,86,Undirected,287,,0.035714,232,Nuclear for Climate,COP28-196,2,University of Cambridge
+85,87,Undirected,288,,0.035714,232,Urenco,COP28-196,2,University of Cambridge
+85,88,Undirected,289,,0.035714,232,EDF,COP28-196,2,University of Cambridge
+85,89,Undirected,290,,0.035714,232,Idaho National Laboratory,COP28-196,2,University of Cambridge
+85,90,Undirected,291,,0.035714,232,Anthropocene Institute,COP28-196,2,University of Cambridge
+86,87,Undirected,292,,0.035714,232,Urenco,COP28-196,2,Nuclear for Climate
+86,88,Undirected,293,,0.035714,232,EDF,COP28-196,2,Nuclear for Climate
+86,89,Undirected,294,,0.035714,232,Idaho National Laboratory,COP28-196,2,Nuclear for Climate
+86,90,Undirected,295,,0.035714,232,Anthropocene Institute,COP28-196,2,Nuclear for Climate
+87,88,Undirected,296,,0.035714,232,EDF,COP28-196,2,Urenco
+87,89,Undirected,297,,0.035714,232,Idaho National Laboratory,COP28-196,2,Urenco
+87,90,Undirected,298,,0.035714,232,Anthropocene Institute,COP28-196,2,Urenco
+88,89,Undirected,299,,0.035714,232,Idaho National Laboratory,COP28-196,2,EDF
+88,90,Undirected,300,,0.035714,232,Anthropocene Institute,COP28-196,2,EDF
+89,90,Undirected,301,,0.035714,232,Anthropocene Institute,COP28-196,2,Idaho National Laboratory
+91,92,Undirected,302,,0.1,253,International Council for Mining and Metals (ICMM),COP28-198,19,Philippines
+91,93,Undirected,303,,0.1,253,Global Witness,COP28-198,19,Philippines
+91,94,Undirected,304,,0.1,253,SSE Renewables,COP28-198,19,Philippines
+91,95,Undirected,305,,0.1,253,The Extractive Industries Transparency Initiative * (EITI),COP28-198,19,Philippines
+92,93,Undirected,306,,0.1,253,Global Witness,COP28-198,19,International Council for Mining and Metals (ICMM)
+92,94,Undirected,307,,0.1,253,SSE Renewables,COP28-198,19,International Council for Mining and Metals (ICMM)
+92,95,Undirected,308,,0.1,253,The Extractive Industries Transparency Initiative * (EITI),COP28-198,19,International Council for Mining and Metals (ICMM)
+93,94,Undirected,309,,0.1,253,SSE Renewables,COP28-198,19,Global Witness
+93,95,Undirected,310,,0.1,253,The Extractive Industries Transparency Initiative * (EITI),COP28-198,19,Global Witness
+94,95,Undirected,311,,0.1,253,The Extractive Industries Transparency Initiative * (EITI),COP28-198,19,SSE Renewables
+96,38,Undirected,312,,0.066667,148,International Renewable Energy Agency (IRENA),COP28-209,2,Alliance to Save Energy (ASE)
+96,98,Undirected,313,,0.066667,148,Clean Energy Council,COP28-209,2,Alliance to Save Energy (ASE)
+96,100,Undirected,314,,0.066667,148,Association of Energy Engineers (AEE),COP28-209,2,Alliance to Save Energy (ASE)
+96,101,Undirected,315,,0.066667,148,Goldwind Australia,COP28-209,2,Alliance to Save Energy (ASE)
+96,102,Undirected,316,,0.066667,148,Capital Power,COP28-209,2,Alliance to Save Energy (ASE)
+38,98,Undirected,317,,0.066667,148,Clean Energy Council,COP28-209,2,International Renewable Energy Agency (IRENA)
+38,100,Undirected,318,,0.066667,148,Association of Energy Engineers (AEE),COP28-209,2,International Renewable Energy Agency (IRENA)
+38,101,Undirected,319,,0.066667,148,Goldwind Australia,COP28-209,2,International Renewable Energy Agency (IRENA)
+38,102,Undirected,320,,0.066667,148,Capital Power,COP28-209,2,International Renewable Energy Agency (IRENA)
+98,100,Undirected,321,,0.066667,148,Association of Energy Engineers (AEE),COP28-209,2,Clean Energy Council
+98,101,Undirected,322,,0.066667,148,Goldwind Australia,COP28-209,2,Clean Energy Council
+98,102,Undirected,323,,0.066667,148,Capital Power,COP28-209,2,Clean Energy Council
+100,101,Undirected,324,,0.066667,148,Goldwind Australia,COP28-209,2,Association of Energy Engineers (AEE)
+100,102,Undirected,325,,0.066667,148,Capital Power,COP28-209,2,Association of Energy Engineers (AEE)
+101,102,Undirected,326,,0.066667,148,Capital Power,COP28-209,2,Goldwind Australia
+103,104,Undirected,327,,0.166667,244,International Network for Sustainable Energy (INFORSE),COP28-224,62,Global Ecovillage Network (GEN - International)
+103,105,Undirected,328,,0.166667,244,Nordic Folkecenter for Renewable Energy (NFVE),COP28-224,62,Global Ecovillage Network (GEN - International)
+103,106,Undirected,329,,0.166667,244,Integrated Sustainable Energy and Ecological Development Association (INSEDA),COP28-224,62,Global Ecovillage Network (GEN - International)
+104,105,Undirected,330,,0.166667,244,Nordic Folkecenter for Renewable Energy (NFVE),COP28-224,62,International Network for Sustainable Energy (INFORSE)
+104,106,Undirected,331,,0.166667,244,Integrated Sustainable Energy and Ecological Development Association (INSEDA),COP28-224,62,International Network for Sustainable Energy (INFORSE)
+105,106,Undirected,332,,0.166667,244,Integrated Sustainable Energy and Ecological Development Association (INSEDA),COP28-224,62,Nordic Folkecenter for Renewable Energy (NFVE)
+107,108,Undirected,333,,0.1,130,Federal University of Rio de Janeiro (UFRJ),COP28-236,2,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech)
+107,109,Undirected,334,,0.1,130,Indian Institute of Management Ahmedabad (IIMA),COP28-236,2,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech)
+107,111,Undirected,335,,0.1,130,Centre International de Recherche sur l'Environnement et le Développement (CIRED),COP28-236,2,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech)
+107,112,Undirected,336,,0.1,130,OXFAM International (OI),COP28-236,2,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech)
+108,109,Undirected,337,,0.1,130,Indian Institute of Management Ahmedabad (IIMA),COP28-236,2,Federal University of Rio de Janeiro (UFRJ)
+108,111,Undirected,338,,0.1,130,Centre International de Recherche sur l'Environnement et le Développement (CIRED),COP28-236,2,Federal University of Rio de Janeiro (UFRJ)
+108,112,Undirected,339,,0.1,130,OXFAM International (OI),COP28-236,2,Federal University of Rio de Janeiro (UFRJ)
+109,111,Undirected,340,,0.1,130,Centre International de Recherche sur l'Environnement et le Développement (CIRED),COP28-236,2,Indian Institute of Management Ahmedabad (IIMA)
+109,112,Undirected,341,,0.1,130,OXFAM International (OI),COP28-236,2,Indian Institute of Management Ahmedabad (IIMA)
+111,112,Undirected,342,,0.1,130,OXFAM International (OI),COP28-236,2,Centre International de Recherche sur l'Environnement et le Développement (CIRED)
+113,114,Undirected,343,,0.166667,129,International Energy Agency (IEA),COP28-244,2,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC)
+113,38,Undirected,344,,0.166667,129,International Renewable Energy Agency (IRENA),COP28-244,2,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC)
+113,116,Undirected,345,,0.166667,129,Ethiopia,COP28-244,2,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC)
+114,38,Undirected,346,,0.166667,129,International Renewable Energy Agency (IRENA),COP28-244,2,International Energy Agency (IEA)
+114,116,Undirected,347,,0.166667,129,Ethiopia,COP28-244,2,International Energy Agency (IEA)
+38,116,Undirected,348,,0.166667,129,Ethiopia,COP28-244,2,International Renewable Energy Agency (IRENA)
+117,38,Undirected,349,,0.008333,100,International Renewable Energy Agency (IRENA),COP28-266,2,United Nations (UN)
+117,119,Undirected,350,,0.008333,100,Danish Society of Engineers,COP28-266,2,United Nations (UN)
+117,120,Undirected,351,,0.008333,100,Longi,COP28-266,2,United Nations (UN)
+117,121,Undirected,352,,0.008333,100,China Photovoltaic Industry Association (CPIA),COP28-266,2,United Nations (UN)
+117,122,Undirected,353,,0.008333,100,Bloomberg NEF,COP28-266,2,United Nations (UN)
+117,123,Undirected,354,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,United Nations (UN)
+117,124,Undirected,355,,0.008333,100,ClimateWorks Foundation,COP28-266,2,United Nations (UN)
+117,125,Undirected,356,,0.008333,100,JinkoSolar,COP28-266,2,United Nations (UN)
+117,126,Undirected,357,,0.008333,100,Sungrow Power Supplies,COP28-266,2,United Nations (UN)
+117,127,Undirected,358,,0.008333,100,AMEA Power,COP28-266,2,United Nations (UN)
+117,128,Undirected,359,,0.008333,100,Strategic Security Systems,COP28-266,2,United Nations (UN)
+117,129,Undirected,360,,0.008333,100,NaaS Technology Inc.,COP28-266,2,United Nations (UN)
+117,130,Undirected,361,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,United Nations (UN)
+117,131,Undirected,362,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,United Nations (UN)
+117,132,Undirected,363,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,United Nations (UN)
+38,119,Undirected,364,,0.008333,100,Danish Society of Engineers,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,120,Undirected,365,,0.008333,100,Longi,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,121,Undirected,366,,0.008333,100,China Photovoltaic Industry Association (CPIA),COP28-266,2,International Renewable Energy Agency (IRENA)
+38,122,Undirected,367,,0.008333,100,Bloomberg NEF,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,123,Undirected,368,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,International Renewable Energy Agency (IRENA)
+38,124,Undirected,369,,0.008333,100,ClimateWorks Foundation,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,125,Undirected,370,,0.008333,100,JinkoSolar,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,126,Undirected,371,,0.008333,100,Sungrow Power Supplies,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,127,Undirected,372,,0.008333,100,AMEA Power,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,128,Undirected,373,,0.008333,100,Strategic Security Systems,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,129,Undirected,374,,0.008333,100,NaaS Technology Inc.,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,130,Undirected,375,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,131,Undirected,376,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,International Renewable Energy Agency (IRENA)
+38,132,Undirected,377,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,International Renewable Energy Agency (IRENA)
+119,120,Undirected,378,,0.008333,100,Longi,COP28-266,2,Danish Society of Engineers
+119,121,Undirected,379,,0.008333,100,China Photovoltaic Industry Association (CPIA),COP28-266,2,Danish Society of Engineers
+119,122,Undirected,380,,0.008333,100,Bloomberg NEF,COP28-266,2,Danish Society of Engineers
+119,123,Undirected,381,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,Danish Society of Engineers
+119,124,Undirected,382,,0.008333,100,ClimateWorks Foundation,COP28-266,2,Danish Society of Engineers
+119,125,Undirected,383,,0.008333,100,JinkoSolar,COP28-266,2,Danish Society of Engineers
+119,126,Undirected,384,,0.008333,100,Sungrow Power Supplies,COP28-266,2,Danish Society of Engineers
+119,127,Undirected,385,,0.008333,100,AMEA Power,COP28-266,2,Danish Society of Engineers
+119,128,Undirected,386,,0.008333,100,Strategic Security Systems,COP28-266,2,Danish Society of Engineers
+119,129,Undirected,387,,0.008333,100,NaaS Technology Inc.,COP28-266,2,Danish Society of Engineers
+119,130,Undirected,388,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,Danish Society of Engineers
+119,131,Undirected,389,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Danish Society of Engineers
+119,132,Undirected,390,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Danish Society of Engineers
+120,121,Undirected,391,,0.008333,100,China Photovoltaic Industry Association (CPIA),COP28-266,2,Longi
+120,122,Undirected,392,,0.008333,100,Bloomberg NEF,COP28-266,2,Longi
+120,123,Undirected,393,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,Longi
+120,124,Undirected,394,,0.008333,100,ClimateWorks Foundation,COP28-266,2,Longi
+120,125,Undirected,395,,0.008333,100,JinkoSolar,COP28-266,2,Longi
+120,126,Undirected,396,,0.008333,100,Sungrow Power Supplies,COP28-266,2,Longi
+120,127,Undirected,397,,0.008333,100,AMEA Power,COP28-266,2,Longi
+120,128,Undirected,398,,0.008333,100,Strategic Security Systems,COP28-266,2,Longi
+120,129,Undirected,399,,0.008333,100,NaaS Technology Inc.,COP28-266,2,Longi
+120,130,Undirected,400,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,Longi
+120,131,Undirected,401,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Longi
+120,132,Undirected,402,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Longi
+121,122,Undirected,403,,0.008333,100,Bloomberg NEF,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,123,Undirected,404,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,124,Undirected,405,,0.008333,100,ClimateWorks Foundation,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,125,Undirected,406,,0.008333,100,JinkoSolar,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,126,Undirected,407,,0.008333,100,Sungrow Power Supplies,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,127,Undirected,408,,0.008333,100,AMEA Power,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,128,Undirected,409,,0.008333,100,Strategic Security Systems,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,129,Undirected,410,,0.008333,100,NaaS Technology Inc.,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,130,Undirected,411,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,131,Undirected,412,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,China Photovoltaic Industry Association (CPIA)
+121,132,Undirected,413,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,China Photovoltaic Industry Association (CPIA)
+122,123,Undirected,414,,0.008333,100,China New Energy Chamber of Commerce (CNECC),COP28-266,2,Bloomberg NEF
+122,124,Undirected,415,,0.008333,100,ClimateWorks Foundation,COP28-266,2,Bloomberg NEF
+122,125,Undirected,416,,0.008333,100,JinkoSolar,COP28-266,2,Bloomberg NEF
+122,126,Undirected,417,,0.008333,100,Sungrow Power Supplies,COP28-266,2,Bloomberg NEF
+122,127,Undirected,418,,0.008333,100,AMEA Power,COP28-266,2,Bloomberg NEF
+122,128,Undirected,419,,0.008333,100,Strategic Security Systems,COP28-266,2,Bloomberg NEF
+122,129,Undirected,420,,0.008333,100,NaaS Technology Inc.,COP28-266,2,Bloomberg NEF
+122,130,Undirected,421,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,Bloomberg NEF
+122,131,Undirected,422,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Bloomberg NEF
+122,132,Undirected,423,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Bloomberg NEF
+123,124,Undirected,424,,0.008333,100,ClimateWorks Foundation,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,125,Undirected,425,,0.008333,100,JinkoSolar,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,126,Undirected,426,,0.008333,100,Sungrow Power Supplies,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,127,Undirected,427,,0.008333,100,AMEA Power,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,128,Undirected,428,,0.008333,100,Strategic Security Systems,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,129,Undirected,429,,0.008333,100,NaaS Technology Inc.,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,130,Undirected,430,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,131,Undirected,431,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+123,132,Undirected,432,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,China New Energy Chamber of Commerce (CNECC)
+124,125,Undirected,433,,0.008333,100,JinkoSolar,COP28-266,2,ClimateWorks Foundation
+124,126,Undirected,434,,0.008333,100,Sungrow Power Supplies,COP28-266,2,ClimateWorks Foundation
+124,127,Undirected,435,,0.008333,100,AMEA Power,COP28-266,2,ClimateWorks Foundation
+124,128,Undirected,436,,0.008333,100,Strategic Security Systems,COP28-266,2,ClimateWorks Foundation
+124,129,Undirected,437,,0.008333,100,NaaS Technology Inc.,COP28-266,2,ClimateWorks Foundation
+124,130,Undirected,438,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,ClimateWorks Foundation
+124,131,Undirected,439,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,ClimateWorks Foundation
+124,132,Undirected,440,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,ClimateWorks Foundation
+125,126,Undirected,441,,0.008333,100,Sungrow Power Supplies,COP28-266,2,JinkoSolar
+125,127,Undirected,442,,0.008333,100,AMEA Power,COP28-266,2,JinkoSolar
+125,128,Undirected,443,,0.008333,100,Strategic Security Systems,COP28-266,2,JinkoSolar
+125,129,Undirected,444,,0.008333,100,NaaS Technology Inc.,COP28-266,2,JinkoSolar
+125,130,Undirected,445,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,JinkoSolar
+125,131,Undirected,446,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,JinkoSolar
+125,132,Undirected,447,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,JinkoSolar
+126,127,Undirected,448,,0.008333,100,AMEA Power,COP28-266,2,Sungrow Power Supplies
+126,128,Undirected,449,,0.008333,100,Strategic Security Systems,COP28-266,2,Sungrow Power Supplies
+126,129,Undirected,450,,0.008333,100,NaaS Technology Inc.,COP28-266,2,Sungrow Power Supplies
+126,130,Undirected,451,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,Sungrow Power Supplies
+126,131,Undirected,452,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Sungrow Power Supplies
+126,132,Undirected,453,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Sungrow Power Supplies
+127,128,Undirected,454,,0.008333,100,Strategic Security Systems,COP28-266,2,AMEA Power
+127,129,Undirected,455,,0.008333,100,NaaS Technology Inc.,COP28-266,2,AMEA Power
+127,130,Undirected,456,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,AMEA Power
+127,131,Undirected,457,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,AMEA Power
+127,132,Undirected,458,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,AMEA Power
+128,129,Undirected,459,,0.008333,100,NaaS Technology Inc.,COP28-266,2,Strategic Security Systems
+128,130,Undirected,460,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,Strategic Security Systems
+128,131,Undirected,461,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Strategic Security Systems
+128,132,Undirected,462,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Strategic Security Systems
+129,130,Undirected,463,,0.008333,100,Chinese Renewable Energy Industries Association,COP28-266,2,NaaS Technology Inc.
+129,131,Undirected,464,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,NaaS Technology Inc.
+129,132,Undirected,465,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,NaaS Technology Inc.
+130,131,Undirected,466,,0.008333,100,International Society for Energy Transition Studies,COP28-266,2,Chinese Renewable Energy Industries Association
+130,132,Undirected,467,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,Chinese Renewable Energy Industries Association
+131,132,Undirected,468,,0.008333,100,Institute for Essential Services Reform (IESR),COP28-266,2,International Society for Energy Transition Studies
+133,135,Undirected,469,,0.166667,62,Youth for Environment & Sustainable Development (YSD),COP28-288,19,Leave it in the ground Intiative
+133,136,Undirected,470,,0.166667,62,Friends of the Earth International (FOEI),COP28-288,19,Leave it in the ground Intiative
+133,137,Undirected,471,,0.166667,62,Deutsche Umwelthilfe e.V.,COP28-288,19,Leave it in the ground Intiative
+135,136,Undirected,472,,0.166667,62,Friends of the Earth International (FOEI),COP28-288,19,Youth for Environment & Sustainable Development (YSD)
+135,137,Undirected,473,,0.166667,62,Deutsche Umwelthilfe e.V.,COP28-288,19,Youth for Environment & Sustainable Development (YSD)
+136,137,Undirected,474,,0.166667,62,Deutsche Umwelthilfe e.V.,COP28-288,19,Friends of the Earth International (FOEI)
+138,139,Undirected,475,,0.1,68,Environmental Defence Canada,COP28-290,19,Youth Climate Lab (YCL)
+138,140,Undirected,476,,0.1,68,Africa Network for Environment and Economic Justice (ANEEJ),COP28-290,19,Youth Climate Lab (YCL)
+138,141,Undirected,477,,0.1,68,Waterkeeper Alliance,COP28-290,19,Youth Climate Lab (YCL)
+138,143,Undirected,478,,0.1,68,United Kingdom Youth Climate Coalition Limited (UKYCC),COP28-290,19,Youth Climate Lab (YCL)
+139,140,Undirected,479,,0.1,68,Africa Network for Environment and Economic Justice (ANEEJ),COP28-290,19,Environmental Defence Canada
+139,141,Undirected,480,,0.1,68,Waterkeeper Alliance,COP28-290,19,Environmental Defence Canada
+139,143,Undirected,481,,0.1,68,United Kingdom Youth Climate Coalition Limited (UKYCC),COP28-290,19,Environmental Defence Canada
+140,141,Undirected,482,,0.1,68,Waterkeeper Alliance,COP28-290,19,Africa Network for Environment and Economic Justice (ANEEJ)
+140,143,Undirected,483,,0.1,68,United Kingdom Youth Climate Coalition Limited (UKYCC),COP28-290,19,Africa Network for Environment and Economic Justice (ANEEJ)
+141,143,Undirected,484,,0.1,68,United Kingdom Youth Climate Coalition Limited (UKYCC),COP28-290,19,Waterkeeper Alliance
+144,145,Undirected,485,,0.047619,17,Saint Kitts and Nevis,COP28-291,2,Green Solutions International SKN Incorporated
+144,146,Undirected,486,,0.047619,17,Foundation of Taiwan Industry Service (FTIS),COP28-291,2,Green Solutions International SKN Incorporated
+144,147,Undirected,487,,0.047619,17,The St. Kitts Electricity Company,COP28-291,2,Green Solutions International SKN Incorporated
+144,148,Undirected,488,,0.047619,17,Palau Public Utilities Corporation,COP28-291,2,Green Solutions International SKN Incorporated
+144,149,Undirected,489,,0.047619,17,Taiwan International Cooperation and Development Fund (Taiwan ICDF),COP28-291,2,Green Solutions International SKN Incorporated
+144,150,Undirected,490,,0.047619,17,Taipei City Government,COP28-291,2,Green Solutions International SKN Incorporated
+145,146,Undirected,491,,0.047619,17,Foundation of Taiwan Industry Service (FTIS),COP28-291,2,Saint Kitts and Nevis
+145,147,Undirected,492,,0.047619,17,The St. Kitts Electricity Company,COP28-291,2,Saint Kitts and Nevis
+145,148,Undirected,493,,0.047619,17,Palau Public Utilities Corporation,COP28-291,2,Saint Kitts and Nevis
+145,149,Undirected,494,,0.047619,17,Taiwan International Cooperation and Development Fund (Taiwan ICDF),COP28-291,2,Saint Kitts and Nevis
+145,150,Undirected,495,,0.047619,17,Taipei City Government,COP28-291,2,Saint Kitts and Nevis
+146,147,Undirected,496,,0.047619,17,The St. Kitts Electricity Company,COP28-291,2,Foundation of Taiwan Industry Service (FTIS)
+146,148,Undirected,497,,0.047619,17,Palau Public Utilities Corporation,COP28-291,2,Foundation of Taiwan Industry Service (FTIS)
+146,149,Undirected,498,,0.047619,17,Taiwan International Cooperation and Development Fund (Taiwan ICDF),COP28-291,2,Foundation of Taiwan Industry Service (FTIS)
+146,150,Undirected,499,,0.047619,17,Taipei City Government,COP28-291,2,Foundation of Taiwan Industry Service (FTIS)
+147,148,Undirected,500,,0.047619,17,Palau Public Utilities Corporation,COP28-291,2,The St. Kitts Electricity Company
+147,149,Undirected,501,,0.047619,17,Taiwan International Cooperation and Development Fund (Taiwan ICDF),COP28-291,2,The St. Kitts Electricity Company
+147,150,Undirected,502,,0.047619,17,Taipei City Government,COP28-291,2,The St. Kitts Electricity Company
+148,149,Undirected,503,,0.047619,17,Taiwan International Cooperation and Development Fund (Taiwan ICDF),COP28-291,2,Palau Public Utilities Corporation
+148,150,Undirected,504,,0.047619,17,Taipei City Government,COP28-291,2,Palau Public Utilities Corporation
+149,150,Undirected,505,,0.047619,17,Taipei City Government,COP28-291,2,Taiwan International Cooperation and Development Fund (Taiwan ICDF)
+151,136,Undirected,506,,0.066667,25,Friends of the Earth International (FOEI),COP28-309,19,Fridays for Future
+151,153,Undirected,507,,0.066667,25,Movimiento Ciudadano frente al Cambio Climático,COP28-309,19,Fridays for Future
+151,6,Undirected,508,,0.066667,25,Don't Gas Africa,COP28-309,19,Fridays for Future
+151,155,Undirected,509,,0.066667,25,Pacific Climate Warriors,COP28-309,19,Fridays for Future
+151,156,Undirected,510,,0.066667,25,Fédération des travailleurs et des travailleuses du Québec (FTQ),COP28-309,19,Fridays for Future
+136,153,Undirected,511,,0.066667,25,Movimiento Ciudadano frente al Cambio Climático,COP28-309,19,Friends of the Earth International (FOEI)
+136,6,Undirected,512,,0.066667,25,Don't Gas Africa,COP28-309,19,Friends of the Earth International (FOEI)
+136,155,Undirected,513,,0.066667,25,Pacific Climate Warriors,COP28-309,19,Friends of the Earth International (FOEI)
+136,156,Undirected,514,,0.066667,25,Fédération des travailleurs et des travailleuses du Québec (FTQ),COP28-309,19,Friends of the Earth International (FOEI)
+153,6,Undirected,515,,0.066667,25,Don't Gas Africa,COP28-309,19,Movimiento Ciudadano frente al Cambio Climático
+153,155,Undirected,516,,0.066667,25,Pacific Climate Warriors,COP28-309,19,Movimiento Ciudadano frente al Cambio Climático
+153,156,Undirected,517,,0.066667,25,Fédération des travailleurs et des travailleuses du Québec (FTQ),COP28-309,19,Movimiento Ciudadano frente al Cambio Climático
+6,155,Undirected,518,,0.066667,25,Pacific Climate Warriors,COP28-309,19,Don't Gas Africa
+6,156,Undirected,519,,0.066667,25,Fédération des travailleurs et des travailleuses du Québec (FTQ),COP28-309,19,Don't Gas Africa
+155,156,Undirected,520,,0.066667,25,Fédération des travailleurs et des travailleuses du Québec (FTQ),COP28-309,19,Pacific Climate Warriors
+1,158,Undirected,521,,0.166667,58,International Institute for Sustainable Development (IISD),COP28-339,19,Climate Action Network International (CAN International)
+1,159,Undirected,522,,0.166667,58,International Trade Union Confederation (ITUC),COP28-339,19,Climate Action Network International (CAN International)
+158,159,Undirected,524,,0.166667,58,International Trade Union Confederation (ITUC),COP28-339,19,International Institute for Sustainable Development (IISD)
+158,4,Undirected,525,,0.166667,58,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-339,19,International Institute for Sustainable Development (IISD)
+159,4,Undirected,526,,0.166667,58,Fossil Fuel Non-Proliferation Treaty Initiative,COP28-339,19,International Trade Union Confederation (ITUC)

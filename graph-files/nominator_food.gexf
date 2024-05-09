@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-03-17">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="product" title="product" type="string"/>
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="badge" title="badge" type="string"/>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="authority" title="Authority" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="hub" title="Hub" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="triangles" title="Number of triangles" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="mmnt-edgetype" title="MMNT-EdgeType" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Thailand">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="0"/>
+          <attvalue for="weighted degree" value="0.0"/>
+          <attvalue for="eccentricity" value="0.0"/>
+          <attvalue for="closnesscentrality" value="0.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.0"/>
+          <attvalue for="hub" value="0.0"/>
+          <attvalue for="pageranks" value="0.009708738917780811"/>
+          <attvalue for="componentnumber" value="0"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="52.594913" y="17.30774"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="2" label="Australia">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.35645304408115236"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted degree" value="17.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.14161514"/>
+          <attvalue for="hub" value="0.14161514"/>
+          <attvalue for="pageranks" value="0.043120981750406295"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="3"/>
+        </attvalues>
+        <viz:size value="3.7"/>
+        <viz:position x="30.918999" y="-30.019035"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="3" label="Brazil">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="1.0"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="weighted degree" value="78.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.8571428571428571"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.9166666666666666"/>
+          <attvalue for="betweenesscentrality" value="29.0"/>
+          <attvalue for="authority" value="0.40279195"/>
+          <attvalue for="hub" value="0.40279195"/>
+          <attvalue for="pageranks" value="0.12588446491647498"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="0.35555555555555557"/>
+          <attvalue for="triangles" value="16"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="9.64398" y="-21.488297"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="4" label="China">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="0"/>
+          <attvalue for="weighted degree" value="0.0"/>
+          <attvalue for="eccentricity" value="0.0"/>
+          <attvalue for="closnesscentrality" value="0.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.0"/>
+          <attvalue for="hub" value="0.0"/>
+          <attvalue for="pageranks" value="0.009708738917780811"/>
+          <attvalue for="componentnumber" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-26.93802" y="-46.06047"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="5" label="Denmark">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.003524506572007427"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted degree" value="2.0"/>
+          <attvalue for="eccentricity" value="1.0"/>
+          <attvalue for="closnesscentrality" value="1.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.0"/>
+          <attvalue for="hub" value="0.0"/>
+          <attvalue for="pageranks" value="0.06472491888311051"/>
+          <attvalue for="componentnumber" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+        </attvalues>
+        <viz:size value="1.9000001"/>
+        <viz:position x="-48.643738" y="-19.146091"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="6" label="France">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.5434167505463982"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="14.0"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.5454545454545454"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.6388888888888888"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.22079654"/>
+          <attvalue for="hub" value="0.22079654"/>
+          <attvalue for="pageranks" value="0.050857785665197275"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="6"/>
+        </attvalues>
+        <viz:size value="4.6000004"/>
+        <viz:position x="10.227343" y="43.021336"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="7" label="New Zealand">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+          <attvalue for="badge" value="Party overflow/Party"/>
+          <attvalue for="degree" value="0"/>
+          <attvalue for="weighted degree" value="0.0"/>
+          <attvalue for="eccentricity" value="0.0"/>
+          <attvalue for="closnesscentrality" value="0.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.0"/>
+          <attvalue for="hub" value="0.0"/>
+          <attvalue for="pageranks" value="0.009708738917780811"/>
+          <attvalue for="componentnumber" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-32.77572" y="-36.662884"/>
+        <viz:color r="219" g="112" b="147"/>
+      </node>
+      <node id="8" label="League of Arab States">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.7256556426849423"/>
+          <attvalue for="badge" value="IGO"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted degree" value="64.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.631578947368421"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.2956668"/>
+          <attvalue for="hub" value="0.2956668"/>
+          <attvalue for="pageranks" value="0.0610233603734823"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="10"/>
+        </attvalues>
+        <viz:size value="5.5"/>
+        <viz:position x="-13.913136" y="9.222656"/>
+      </node>
+      <node id="9" label="Animal Agriculture Alliance">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.20087786076383907"/>
+          <attvalue for="badge" value="Constituency - Business and Industry  "/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="10.0"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.5"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5555555555555555"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.07918141"/>
+          <attvalue for="hub" value="0.07918141"/>
+          <attvalue for="pageranks" value="0.0355491343188388"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="1"/>
+        </attvalues>
+        <viz:size value="2.8000002"/>
+        <viz:position x="3.0392294" y="-43.530014"/>
+        <viz:color r="26" g="12" b="100"/>
+      </node>
+      <node id="10" label="Global Dairy Platform">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.003524506572007427"/>
+          <attvalue for="badge" value="Constituency - Business and Industry  "/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted degree" value="2.0"/>
+          <attvalue for="eccentricity" value="1.0"/>
+          <attvalue for="closnesscentrality" value="1.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.0"/>
+          <attvalue for="hub" value="0.0"/>
+          <attvalue for="pageranks" value="0.06472491888311051"/>
+          <attvalue for="componentnumber" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+        </attvalues>
+        <viz:size value="1.9000001"/>
+        <viz:position x="-43.296448" y="-27.502077"/>
+        <viz:color r="26" g="12" b="100"/>
+      </node>
+      <node id="11" label="Imaflora">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.3564530440811523"/>
+          <attvalue for="badge" value="Constituency - Environmental "/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted degree" value="17.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.14161514"/>
+          <attvalue for="hub" value="0.14161514"/>
+          <attvalue for="pageranks" value="0.043120981750406295"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="3"/>
+        </attvalues>
+        <viz:size value="3.7"/>
+        <viz:position x="-10.456074" y="-32.235283"/>
+        <viz:color r="254" g="242" b="243"/>
+      </node>
+      <node id="12" label="ICC">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.9910155062208086"/>
+          <attvalue for="badge" value="Constituency - Business and Industry  "/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted degree" value="46.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.75"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"/>
+          <attvalue for="betweenesscentrality" value="6.000000000000001"/>
+          <attvalue for="authority" value="0.40279195"/>
+          <attvalue for="hub" value="0.40279195"/>
+          <attvalue for="pageranks" value="0.09354156973426805"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="0.6071428571428571"/>
+          <attvalue for="triangles" value="17"/>
+        </attvalues>
+        <viz:size value="8.200001"/>
+        <viz:position x="7.566701" y="18.051888"/>
+        <viz:color r="26" g="12" b="100"/>
+      </node>
+      <node id="13" label="Natural Capitalism Solutions">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.5434167505463982"/>
+          <attvalue for="badge" value="Constituency - Environmental "/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="8.0"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.5454545454545454"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.638888888888889"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.22079654"/>
+          <attvalue for="hub" value="0.22079654"/>
+          <attvalue for="pageranks" value="0.050857785665197275"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="6"/>
+        </attvalues>
+        <viz:size value="4.6000004"/>
+        <viz:position x="31.213331" y="34.160255"/>
+        <viz:color r="254" g="242" b="243"/>
+      </node>
+      <node id="14" label="North American Meat Institute">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.20087786076383907"/>
+          <attvalue for="badge" value="Constituency - Business and Industry  "/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="10.0"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.5"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5555555555555555"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.07918141"/>
+          <attvalue for="hub" value="0.07918141"/>
+          <attvalue for="pageranks" value="0.0355491343188388"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="1"/>
+        </attvalues>
+        <viz:size value="2.8000002"/>
+        <viz:position x="17.25294" y="-43.063248"/>
+        <viz:color r="26" g="12" b="100"/>
+      </node>
+      <node id="15" label="Unis-Terre">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.7256556426849423"/>
+          <attvalue for="badge" value="Constituency - Environmental "/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted degree" value="28.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.631578947368421"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.2956668"/>
+          <attvalue for="hub" value="0.2956668"/>
+          <attvalue for="pageranks" value="0.0610233603734823"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="10"/>
+        </attvalues>
+        <viz:size value="5.5"/>
+        <viz:position x="-22.677357" y="-7.0120993"/>
+        <viz:color r="254" g="242" b="243"/>
+      </node>
+      <node id="16" label="WBCSD">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.9910155062208086"/>
+          <attvalue for="badge" value="Constituency - Business and Industry  "/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted degree" value="42.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.75"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"/>
+          <attvalue for="betweenesscentrality" value="6.000000000000001"/>
+          <attvalue for="authority" value="0.40279195"/>
+          <attvalue for="hub" value="0.40279195"/>
+          <attvalue for="pageranks" value="0.09354156973426805"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="0.6071428571428571"/>
+          <attvalue for="triangles" value="17"/>
+        </attvalues>
+        <viz:size value="8.200001"/>
+        <viz:position x="-17.249695" y="32.631657"/>
+        <viz:color r="26" g="12" b="100"/>
+      </node>
+      <node id="17" label="Global Climate Action">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.7256556426849423"/>
+          <attvalue for="badge" value="Gobal Climate Action"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted degree" value="15.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.631578947368421"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7083333333333334"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+          <attvalue for="authority" value="0.2956668"/>
+          <attvalue for="hub" value="0.2956668"/>
+          <attvalue for="pageranks" value="0.0610233603734823"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="10"/>
+        </attvalues>
+        <viz:size value="5.5"/>
+        <viz:position x="-37.504295" y="11.080749"/>
+        <viz:color r="211" g="211" b="211"/>
+      </node>
+      <node id="18" label="Host Badges (UAE)">
+        <attvalues>
+          <attvalue for="product" value="NA"/>
+          <attvalue for="type" value="Nominator"/>
+          <attvalue for="eigencentrality" value="0.7885779381607829"/>
+          <attvalue for="badge" value="Host country (UAE)"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted degree" value="25.0"/>
+          <attvalue for="eccentricity" value="2.0"/>
+          <attvalue for="closnesscentrality" value="0.7058823529411765"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7916666666666666"/>
+          <attvalue for="betweenesscentrality" value="7.999999999999999"/>
+          <attvalue for="authority" value="0.3175973"/>
+          <attvalue for="hub" value="0.3175973"/>
+          <attvalue for="pageranks" value="0.08633045650609375"/>
+          <attvalue for="componentnumber" value="1"/>
+          <attvalue for="clustering" value="0.5238095238095238"/>
+          <attvalue for="triangles" value="11"/>
+        </attvalues>
+        <viz:size value="7.2999997"/>
+        <viz:position x="33.308147" y="-2.22072"/>
+        <viz:color r="134" g="13" b="134"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="88" source="2" target="3" label="Nominator-Nominator" weight="15.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="2" target="11" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="2" target="18" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="3" target="8" label="Nominator-Nominator" weight="8.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="3" target="9" label="Nominator-Nominator" weight="9.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="3" target="11" label="Nominator-Nominator" weight="15.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="3" target="12" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="3" target="14" label="Nominator-Nominator" weight="9.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="3" target="15" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="3" target="16" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="3" target="17" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="3" target="18" label="Nominator-Nominator" weight="15.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="5" target="10" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="6" target="12" label="Nominator-Nominator" weight="6.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="6" target="13" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="6" target="16" label="Nominator-Nominator" weight="4.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="6" target="18" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="8" target="12" label="Nominator-Nominator" weight="16.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="8" target="15" label="Nominator-Nominator" weight="16.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="8" target="16" label="Nominator-Nominator" weight="16.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="8" target="17" label="Nominator-Nominator" weight="8.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="9" target="14" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="11" target="18" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="12" target="13" label="Nominator-Nominator" weight="3.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="12" target="15" label="Nominator-Nominator" weight="4.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="12" target="16" label="Nominator-Nominator" weight="10.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="12" target="17" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="12" target="18" label="Nominator-Nominator" weight="3.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="13" target="16" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="13" target="18" label="Nominator-Nominator">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="15" target="16" label="Nominator-Nominator" weight="4.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="15" target="17" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="16" target="17" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="16" target="18" label="Nominator-Nominator" weight="2.0">
+        <viz:color r="219" g="219" b="219"/>
+        <attvalues>
+          <attvalue for="mmnt-edgetype" value="Nominator&lt;--->Nominator"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

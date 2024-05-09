@@ -1,0 +1,373 @@
+Id,Label,clean_org,org_type,country_type,events,name,ff_nominator,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,eigencentrality
+534,,Stockholm Environment Institute (SEI),Constituency - Research and independent,Annex II,0.866667,Stockholm Environment Institute (SEI),0,7,1.733333,13,0.178383,0.254819,0.058185,0.347754
+964,,Overseas Development Institute (ODI),Constituency - Research and independent,Annex II,0.333333,Overseas Development Institute (ODI),0,2,0.666667,13,0.173653,0.230599,0,0.182916
+1519,,Oil Change International (OCI),Constituency - Environmental,Annex II,3.283333,Oil Change International (OCI),0,14,4.566667,12,0.203407,0.305096,0.137804,0.786774
+41,,Swedish Society for Nature Conservation (SSNC),Constituency - Environmental,Annex II,0.666667,Swedish Society for Nature Conservation (SSNC),0,4,1.333333,14,0.163578,0.229187,0.079726,0.197566
+859,,Pan African Climate Justice Alliance (PACJA),Constituency - Environmental,Non-Annex,0.333333,Pan African Climate Justice Alliance (PACJA),0,2,0.666667,14,0.159466,0.208556,0,0.085215
+1011,,Christian Aid (CA),Constituency - Environmental,Annex II,1,Christian Aid (CA),0,6,2,13,0.183877,0.25876,0.085083,0.312003
+181,,Center for International Climate and Environmental Research (CICERO),Constituency - Research and independent,Annex II,0.7,Center for International Climate and Environmental Research (CICERO),0,5,1.4,14,0.155436,0.214723,0.002943,0.195481
+1223,,University of Eastern Finland (UEF),Constituency - Research and independent,Annex II,0.783333,University of Eastern Finland (UEF),0,9,1.566667,14,0.159216,0.233935,0.035407,0.286422
+615,,University of Waterloo,Constituency - Research and independent,Annex II,0.2,University of Waterloo,0,4,0.4,14,0.155318,0.21226,0,0.18924
+133,,Free University Amsterdam (VU),Constituency - Environmental,No match,0.533333,Free University Amsterdam (VU),0,6,1.066667,14,0.156154,0.22047,0.016739,0.218075
+567,,Climate Analytics GmbH,Constituency - Research and independent,Annex II,0.2,Climate Analytics GmbH,0,4,0.4,12,0.18371,0.244969,0,0.31072
+166,,"Human Rights Watch, Inc. (HRW)",Constituency - Others,Annex II,0.2,"Human Rights Watch, Inc. (HRW)",0,4,0.4,12,0.18371,0.244969,0,0.31072
+1769,,Recourse,Constituency - Environmental,No match,0.533333,Recourse,0,5,1.066667,12,0.185388,0.251126,0.001214,0.341592
+1430,,Heinrich Böll Foundation (HBF),Constituency - Environmental,Annex II,3.366667,Heinrich Böll Foundation (HBF),0,9,2.733333,11,0.201589,0.286268,0.131595,0.510299
+595,,Tearfund,Constituency - Environmental,Annex II,0.666667,Tearfund,0,4,1.333333,13,0.173653,0.235666,0.008268,0.214292
+1620,,Global Witness,Constituency - Environmental,Annex II,0.333333,Global Witness,0,2,0.666667,13,0.173653,0.230599,0,0.182916
+607,,Earthworks,Constituency - Environmental,Annex II,0.583333,Earthworks,0,5,1.166667,13,0.182226,0.256619,0.020477,0.50751
+1577,,Climate Action Network - Europe (CAN - Europe),Constituency - Environmental,Annex II,1.166667,Climate Action Network - Europe (CAN - Europe),0,5,2.333333,13,0.177758,0.247025,0.008331,0.273183
+1570,,SustainUS,Constituency - Youth,Annex II,0.25,SustainUS,0,3,0.5,13,0.174099,0.237554,0,0.301445
+627,,Rainforest Action Network (RAN),Constituency - Environmental,Annex II,1.116667,Rainforest Action Network (RAN),0,9,2.233333,13,0.179329,0.265633,0.013427,0.580623
+1491,,Human Rights Foundation of Aotearoa New Zealand (HRF),Constituency - Research and independent,Annex II,0.833333,Human Rights Foundation of Aotearoa New Zealand (HRF),0,6,1.666667,13,0.178697,0.257094,0.008027,0.582871
+847,,International Youth Nuclear Congress (IYNC),Constituency - Youth,Annex II,0.25,International Youth Nuclear Congress (IYNC),0,3,0.5,3,0.52381,0.606061,0,0.123785
+655,,Saving Our Planet (SOP),Constituency - Environmental,Annex II,0.25,Saving Our Planet (SOP),0,3,0.5,3,0.52381,0.606061,0,0.123785
+1554,,European Nuclear Society (ENS),Constituency - Business and Industry,Annex II,4.75,European Nuclear Society (ENS),0,9,1.5,2,0.846154,0.909091,0.000423,0.478987
+121,,American Nuclear Society (ANS),Constituency - Research and independent,Annex II,0.583333,American Nuclear Society (ANS),0,4,1.166667,3,0.55,0.651515,0.000015,0.138943
+1073,,Forum Atomique Européen (FORATOM),Constituency - Others,Annex II,0.5,Forum Atomique Européen (FORATOM),0,7,1,2,0.733333,0.818182,0.000032,0.509394
+1665,,"Japan Atomic Industrial Forum, Inc. (JAIF)",Constituency - Business and Industry,Annex II,0.5,"Japan Atomic Industrial Forum, Inc. (JAIF)",0,7,1,2,0.733333,0.818182,0.000032,0.509394
+818,,Nuclear Energy Institute (NEI),Constituency - Business and Industry,Annex II,0.5,Nuclear Energy Institute (NEI),0,7,1,2,0.733333,0.818182,0.000032,0.509394
+1296,,World Nuclear Association (WNA),Constituency - Business and Industry,Annex II,1.5,World Nuclear Association (WNA),0,7,1,2,0.733333,0.818182,0.000032,0.509394
+911,,Canadian Nuclear Association (CNA),Constituency - Business and Industry,Annex II,0.5,Canadian Nuclear Association (CNA),0,7,1,2,0.733333,0.818182,0.000032,0.509394
+1374,,Sauvons Le Climat (SLC),Constituency - Environmental,Annex II,0.333333,Sauvons Le Climat (SLC),0,2,0.666667,3,0.5,0.560606,0,0.101557
+1719,,Faith Association of the Rehabilitation of Street Children and Orphans (FARSO),Constituency - Youth,Non-Annex,0.333333,Faith Association of the Rehabilitation of Street Children and Orphans (FARSO),0,2,0.666667,18,0.105236,0.144626,0,0.059821
+125,,Abibimman Foundation (AF),Constituency - Environmental,Non-Annex,0.866667,Abibimman Foundation (AF),0,8,1.733333,17,0.117477,0.184557,0.031034,0.250416
+1198,,Global Green Environmental Network (GLOGEN),Constituency - Environmental,Non-Annex,0.333333,Global Green Environmental Network (GLOGEN),0,2,0.666667,18,0.105236,0.144626,0,0.059821
+250,,Climate Change Center (CCC),Constituency - Environmental,Non-Annex,0.666667,Climate Change Center (CCC),0,4,1.333333,16,0.130128,0.189916,0.016406,0.180979
+1735,,Nordic Folkecenter for Renewable Energy (NFVE),Constituency - Environmental,Annex II,2.416667,Nordic Folkecenter for Renewable Energy (NFVE),0,10,2.833333,16,0.130463,0.204284,0.018618,0.497064
+710,,German Advisory Council on Global Change (WBGU),Constituency - Research and independent,Annex II,0.5,German Advisory Council on Global Change (WBGU),0,1,1,1,1,1,0,0.002734
+1096,,International Institute for Applied Systems Analysis (IIASA),Constituency - Research and independent,Annex II,0.5,International Institute for Applied Systems Analysis (IIASA),0,1,1,1,1,1,0,0.002734
+46,,International Energy Agency (IEA),IGO,Annex II,11,International Energy Agency (IEA),0,4,4,16,0.129464,0.185241,0.022629,0.060428
+1196,,The Energy and Resources Institute (TERI),Constituency - Research and independent,Non-Annex,1,The Energy and Resources Institute (TERI),0,2,2,17,0.115538,0.157248,0.001373,0.031948
+84,,University of Cape Town (UCT),Constituency - Research and independent,Non-Annex,1.25,University of Cape Town (UCT),0,5,2.5,16,0.123329,0.168462,0.004526,0.062644
+976,,Centre for International Sustainable Development Law (CISDL),Constituency - Research and independent,Annex II,0.333333,Centre for International Sustainable Development Law (CISDL),0,2,0.666667,16,0.128481,0.172757,0,0.070099
+515,,HELIO International (HELIO),Constituency - Environmental,Annex II,1.5,HELIO International (HELIO),0,6,3,15,0.145729,0.212804,0.034594,0.202558
+1463,,Climate Action Network - Latin America (CAN-LA),Constituency - Environmental,Non-Annex,0.333333,Climate Action Network - Latin America (CAN-LA),0,2,0.666667,14,0.157364,0.20407,0,0.096424
+1588,,France,Party,Annex II,0.5,France,1,1,1,1,1,1,0,0.002734
+569,,Institute for Governance and Sustainable Development (IGSD),Constituency - Environmental,Annex II,0.5,Institute for Governance and Sustainable Development (IGSD),0,1,1,1,1,1,0,0.002734
+783,,Centre for Low Carbon Futures (CLCF),Constituency - Research and independent,Annex II,0.5,Centre for Low Carbon Futures (CLCF),0,1,1,1,1,1,0,0.002734
+1422,,Chatham House,Constituency - Research and independent,Annex II,0.5,Chatham House,0,1,1,1,1,1,0,0.002734
+1307,,International Institute for Sustainable Development (IISD),Constituency - Research and independent,Annex II,2,International Institute for Sustainable Development (IISD),0,5,4,16,0.135968,0.197474,0.007846,0.116034
+663,,Finland,Party,Annex II,1.583333,Finland,1,5,1.166667,15,0.143564,0.201974,0.003443,0.150913
+1566,,New Zealand,Party,Annex II,2.666667,New Zealand,0,3,3.333333,16,0.133377,0.184302,0.000929,0.074155
+232,,Denmark,Party,Annex II,2.083333,Denmark,0,6,2.166667,15,0.145938,0.213387,0.02661,0.164105
+734,,Climate Parliament,Constituency - Environmental,Annex II,0.25,Climate Parliament,0,3,0.5,15,0.140582,0.19143,0,0.117423
+491,,International Council for Sustainable Energy (ICSE),Constituency - Business and Industry,Annex II,2.25,International Council for Sustainable Energy (ICSE),0,9,4.5,16,0.115868,0.188773,0.065488,0.299037
+555,,Center for Clean Air Policy (CCAP),Constituency - Research and independent,Annex II,0.5,Center for Clean Air Policy (CCAP),0,1,1,17,0.103889,0.143343,0,0.055318
+39,,Centre for Environment and Development (CED),Constituency - Environmental,Non-Annex,0.25,Centre for Environment and Development (CED),0,3,0.5,1,1,1,0,0.027867
+1332,,Thanal Trust,Constituency - Environmental,Non-Annex,0.25,Thanal Trust,0,3,0.5,1,1,1,0,0.027867
+69,,Bangladesh Resource Centre for Indigenous Knowledge (BARCIK),Constituency - Environmental,Non-Annex,0.25,Bangladesh Resource Centre for Indigenous Knowledge (BARCIK),0,3,0.5,1,1,1,0,0.027867
+273,,Centre for Ecology Development and Research (CEDAR),Constituency - Environmental,Non-Annex,0.25,Centre for Ecology Development and Research (CEDAR),0,3,0.5,1,1,1,0,0.027867
+1156,,Institut du Développement Durable et des Relations Internationales (IDDRI),Constituency - Research and independent,Annex II,0.583333,Institut du Développement Durable et des Relations Internationales (IDDRI),0,3,1.166667,16,0.121339,0.158393,0,0.051541
+840,,Climate Strategies,Constituency - Research and independent,Annex II,1.416667,Climate Strategies,0,5,2.833333,15,0.136885,0.187499,0.011406,0.096807
+1715,,German Institute for Economic Research (DIW Berlin),Constituency - Research and independent,Annex II,0.583333,German Institute for Economic Research (DIW Berlin),0,3,1.166667,16,0.121339,0.158393,0,0.051541
+1407,,Mercy International Association (MIA),Constituency - Research and independent,Annex II,0.25,Mercy International Association (MIA),0,3,0.5,15,0.142958,0.194792,0,0.310527
+1210,,Franciscans International (FI),Constituency - Environmental,Annex II,0.25,Franciscans International (FI),0,3,0.5,15,0.142958,0.194792,0,0.310527
+364,,Center for Biological Diversity (CBD),Constituency - Environmental,Annex II,1.866667,Center for Biological Diversity (CBD),0,13,3.733333,14,0.166393,0.25892,0.020824,1
+646,,Society of Catholic Medical Missionaries (SCMM),Constituency - Research and independent,Annex II,0.616667,Society of Catholic Medical Missionaries (SCMM),0,10,1.233333,15,0.149046,0.231409,0.001861,0.827068
+294,,Global Alert for Defence of Youth and the Less Privileged (GADYLP),Constituency - Youth,Non-Annex,0.25,Global Alert for Defence of Youth and the Less Privileged (GADYLP),0,3,0.5,1,1,1,0,0.027867
+297,,Brahma Kumaris World Spiritual University (BKWSU),Constituency - Research and independent,Non-Annex,0.25,Brahma Kumaris World Spiritual University (BKWSU),0,3,0.5,1,1,1,0,0.027867
+284,,Friends World Committee for Consultation,Constituency - Research and independent,Annex II,0.25,Friends World Committee for Consultation,0,3,0.5,1,1,1,0,0.027867
+3,,United Nations of Youth Network (UNOY),Constituency - Youth,Non-Annex,0.25,United Nations of Youth Network (UNOY),0,3,0.5,1,1,1,0,0.027867
+1761,,Institute for Policy Studies (IPS),Constituency - Environmental,Annex II,1.416667,Institute for Policy Studies (IPS),0,8,2.833333,14,0.162791,0.236506,0.006468,0.696718
+686,,European Federation of Transport and Environment (T&E),Constituency - Environmental,Annex II,0.333333,European Federation of Transport and Environment (T&E),0,2,0.666667,15,0.142857,0.192329,0,0.24617
+1060,,LDC Watch,Constituency - Research and independent,Non-Annex,0.5,LDC Watch,0,5,1,15,0.144484,0.204234,0,0.523786
+68,,Freedom from Debt Coalition Inc. (FDC),Constituency - Research and independent,Non-Annex,0.166667,Freedom from Debt Coalition Inc. (FDC),0,5,0.333333,15,0.144484,0.204234,0,0.523786
+841,,Rural Reconstruction Nepal (RRN),Constituency - Others,Non-Annex,0.666667,Rural Reconstruction Nepal (RRN),0,6,1.333333,15,0.147959,0.217108,0.005054,0.560798
+1690,,350.org (350.org),Constituency - Environmental,Annex II,1.033333,350.org (350.org),0,7,2.066667,14,0.161753,0.241905,0.009,0.594082
+904,,PUSH Sweden,Constituency - Youth,Annex II,0.2,PUSH Sweden,0,4,0.4,15,0.147529,0.213347,0,0.455278
+431,,Food & Water Watch (FWW),Constituency - Environmental,Annex II,0.45,Food & Water Watch (FWW),0,7,0.9,14,0.159843,0.24143,0.012524,0.695491
+773,,Organisation pour le Respect de l'Environnement dans l'Entreprise (OREE),Constituency - Environmental,Annex II,0.25,Organisation pour le Respect de l'Environnement dans l'Entreprise (OREE),0,3,0.5,1,1,1,0,0.027867
+238,,United Nations Environment Programme (UNEP),UN,International,0.25,United Nations Environment Programme (UNEP),0,3,0.5,1,1,1,0,0.027867
+637,,Nature and Biodiversity Conservation Union (NABU),Constituency - Environmental,Annex II,0.25,Nature and Biodiversity Conservation Union (NABU),0,3,0.5,1,1,1,0,0.027867
+706,,BirdLife International (BLI),Constituency - Environmental,Annex II,0.25,BirdLife International (BLI),0,3,0.5,1,1,1,0,0.027867
+1778,,United Nations Industrial Development Organization (UNIDO),UN,International,3.333333,United Nations Industrial Development Organization (UNIDO),0,2,0.666667,1,1,1,0,0.010141
+602,,United Nations Economic Commission for Europe (ECE),UN,International,0.833333,United Nations Economic Commission for Europe (ECE),0,2,1.666667,1,1,1,0,0.010141
+827,,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),UN,International,0.833333,United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),0,2,1.666667,1,1,1,0,0.010141
+744,,Center for International Environmental Law (CIEL),Constituency - Environmental,Annex II,0.583333,Center for International Environmental Law (CIEL),0,5,1.166667,12,0.171888,0.231396,0.015982,0.182029
+1688,,Climate Justice Program (ACJP),Constituency - Environmental,Annex II,0.666667,Climate Justice Program (ACJP),0,4,1.333333,12,0.170302,0.223843,0.005857,0.133539
+785,,Sweden,Party,Annex II,0.833333,Sweden,0,3,1.666667,15,0.143463,0.19699,0.004558,0.078203
+809,,WWF (WWF),Constituency - Environmental,Annex II,2.333333,WWF (WWF),0,4,2.666667,14,0.153208,0.206161,0.008276,0.100459
+309,,CEE Bankwatch Network (Bankwatch),Constituency - Environmental,Annex I Only,1.2,CEE Bankwatch Network (Bankwatch),0,9,2.4,13,0.171019,0.242703,0.015031,0.365663
+1209,,The Climate Reality Project,Constituency - Environmental,Annex II,0.333333,The Climate Reality Project,0,2,0.666667,14,0.148936,0.192028,0,0.082283
+1576,,Climate Action Network International (CAN International),Constituency - Environmental,Annex II,1.166667,Climate Action Network International (CAN International),0,5,2.333333,13,0.161753,0.216182,0.011464,0.115421
+1098,,The Catholic Agency for Overseas Development (CAFOD),Constituency - Environmental,Annex II,0.333333,The Catholic Agency for Overseas Development (CAFOD),0,2,0.666667,14,0.150817,0.193301,0,0.059718
+628,,urgewald e.V.,Constituency - Environmental,Annex II,1.033333,urgewald e.V.,0,6,2.066667,13,0.167907,0.235857,0.005562,0.344095
+1445,,"Center for Energy, Environment, and Development (CEED)",Constituency - Research and independent,Non-Annex,0.2,"Center for Energy, Environment, and Development (CEED)",0,4,0.4,13,0.163052,0.218944,0,0.258847
+323,,BankTrack,Constituency - Environmental,No match,0.533333,BankTrack,0,6,1.066667,12,0.172034,0.233091,0.01383,0.299733
+1249,,Sierra Club,Constituency - Environmental,Annex II,0.333333,Sierra Club,0,2,0.666667,14,0.154608,0.205587,0,0.153055
+1190,,The Association for Renewable Energy and Clean Technology (REA),Constituency - Business and Industry,Annex II,0.583333,The Association for Renewable Energy and Clean Technology (REA),1,5,1.166667,12,0.160221,0.200872,0.1084,0.125246
+815,,Federation of Indian Chambers of Commerce and Industry (FICCI),Constituency - Business and Industry,Non-Annex,0.333333,Federation of Indian Chambers of Commerce and Industry (FICCI),1,2,0.666667,13,0.142757,0.171301,0,0.054577
+742,,International Hydropower Association (IHA),Constituency - Business and Industry,Annex II,3.833333,International Hydropower Association (IHA),1,5,3.666667,13,0.147529,0.188008,0.105223,0.14771
+1565,,Seychelles,Party,Non-Annex,1,Seychelles,0,1,2,1,1,1,0,0.002734
+264,,ClimateNet,Constituency - Research and independent,Annex II,1,ClimateNet,0,1,2,1,1,1,0,0.002734
+347,,Ethiopia,Party,Non-Annex,0.833333,Ethiopia,0,3,1.666667,15,0.13772,0.18298,0.002943,0.072931
+1521,,ECOWAS Regional Centre for Renewable Energy and Energy Efficiency (ECREEE),IGO,Non-Annex,0.5,ECOWAS Regional Centre for Renewable Energy and Energy Efficiency (ECREEE),0,1,1,16,0.121122,0.149004,0,0.015585
+747,,IndyACT-The League of Independent Activists (IndyACT),Constituency - Environmental,Non-Annex,0.333333,IndyACT-The League of Independent Activists (IndyACT),0,2,0.666667,1,1,1,0,0.010141
+941,,Marshall Islands,Party,Non-Annex,0.333333,Marshall Islands,0,2,0.666667,1,1,1,0,0.010141
+1433,,Costa Rica,Party,Non-Annex,0.333333,Costa Rica,0,2,0.666667,1,1,1,0,0.010141
+437,,University of Potsdam,Constituency - Research and independent,Annex II,0.5,University of Potsdam,0,1,1,1,1,1,0,0.002734
+493,,Stiftung Mercator Foundation,Constituency - Environmental,Annex II,0.5,Stiftung Mercator Foundation,0,1,1,1,1,1,0,0.002734
+947,,Arizona State University (ASU),Constituency - Research and independent,Annex II,0.25,Arizona State University (ASU),0,3,0.5,17,0.104103,0.149501,0,0.10958
+801,,Grace Richardson Fund (GRF),Constituency - Research and independent,Annex II,0.25,Grace Richardson Fund (GRF),1,3,0.5,17,0.104103,0.149501,0,0.10958
+1755,,European Business Council for Sustainable Energy (e5),Constituency - Business and Industry,Annex II,1.416667,European Business Council for Sustainable Energy (e5),0,6,2.833333,17,0.105784,0.168548,0.006392,0.165974
+1298,,Harvard University,Constituency - Research and independent,Annex II,0.5,Harvard University,0,1,1,1,1,1,0,0.002734
+798,,ZEW - Leibniz Centre for European Economic Research (ZEW),Constituency - Research and independent,Annex II,0.5,ZEW - Leibniz Centre for European Economic Research (ZEW),0,1,1,1,1,1,0,0.002734
+1254,,Trustees of Tufts College (Tufts University),Constituency - Research and independent,Annex II,0.5,Trustees of Tufts College (Tufts University),0,1,1,20,0.082286,0.112669,0,0.013037
+72,,Chinese Renewable Energy Industry Association (CREIA),Constituency - Business and Industry,Non-Annex,1.333333,Chinese Renewable Energy Industry Association (CREIA),0,4,2.666667,19,0.089625,0.137928,0.005872,0.050497
+1444,,China New Energy Chamber of Commerce (CNECC),Constituency - Business and Industry,Non-Annex,0.333333,China New Energy Chamber of Commerce (CNECC),0,2,0.666667,19,0.089546,0.133002,0,0.043659
+38,,Danish Society of Engineers,Constituency - Others,Annex II,0.583333,Danish Society of Engineers,0,5,1.166667,18,0.098162,0.165455,0.011598,0.149879
+396,,International Renewable Energy Agency (IRENA),IGO,Non-Annex,2.833333,International Renewable Energy Agency (IRENA),0,3,1.666667,12,0.155794,0.198316,0.00675,0.091037
+1097,,Climate Action Network Canada (CAN-Rac),Constituency - Environmental,Annex II,0.583333,Climate Action Network Canada (CAN-Rac),0,4,1.166667,14,0.149046,0.204258,0.003062,0.121124
+1,,International Forum on Globalization Inc. (IFG),Constituency - Environmental,Annex II,0.583333,International Forum on Globalization Inc. (IFG),0,4,1.166667,14,0.149046,0.204258,0.003062,0.121124
+1427,,Association Française des Entreprises pour l'Environnement (EpE),Constituency - Business and Industry,Annex II,0.333333,Association Française des Entreprises pour l'Environnement (EpE),1,2,0.666667,1,1,1,0,0.010141
+1496,,World Union of Small and Medium Enterprises (WUSME),Constituency - Business and Industry,No match,0.333333,World Union of Small and Medium Enterprises (WUSME),0,2,0.666667,1,1,1,0,0.010141
+787,,Regional Center for Renewable Energy and Energy Efficiency (RCREEE),IGO,Non-Annex,1.333333,Regional Center for Renewable Energy and Energy Efficiency (RCREEE),0,2,0.666667,1,1,1,0,0.010141
+1329,,World Energy Council (WEC),Constituency - Business and Industry,Annex II,4.5,World Energy Council (WEC),0,5,5,17,0.11521,0.161107,0.011685,0.034095
+1452,,Consumers International (CI),Constituency - Environmental,Annex II,0.5,Consumers International (CI),0,1,1,18,0.10336,0.13107,0,0.011505
+969,,United Nations Foundation (UNF),Constituency - Environmental,Annex II,2.833333,United Nations Foundation (UNF),0,5,3.666667,16,0.127834,0.177108,0.008786,0.065081
+1472,,SNV Netherlands Development Organisation (SNV),Constituency - Environmental,No match,0.5,SNV Netherlands Development Organisation (SNV),0,1,1,17,0.113408,0.142662,0,0.015963
+261,,War on Want,Constituency - Environmental,Annex II,0.25,War on Want,0,3,0.5,13,0.149595,0.19198,0,0.089351
+1551,,Stand.Earth,Constituency - Environmental,Annex II,0.25,Stand.Earth,0,3,0.5,13,0.149595,0.19198,0,0.089351
+508,,College of the Atlantic (COA),Constituency - Research and independent,Annex II,0.45,College of the Atlantic (COA),0,7,0.9,13,0.153904,0.212048,0.009906,0.190531
+1397,,Carbon Tracker Initiative Limited,Constituency - Business and Industry,Annex II,0.25,Carbon Tracker Initiative Limited,0,3,0.5,18,0.096026,0.139593,0,0.081272
+403,,Pembina Institute for Appropriate Development (PIAD),Constituency - Environmental,Annex II,0.25,Pembina Institute for Appropriate Development (PIAD),1,3,0.5,18,0.096026,0.139593,0,0.081272
+230,,Solutions for Our Climate (SFOC),Constituency - Environmental,Non-Annex,0.5,Solutions for Our Climate (SFOC),0,5,1,18,0.096163,0.14534,0.000044,0.112084
+314,,Global Wind Energy Council (GWEC),Constituency - Business and Industry,Annex II,3.333333,Global Wind Energy Council (GWEC),0,8,2.666667,17,0.106061,0.175527,0.021527,0.192249
+928,,Iniciativa Climática de Mexico (ICM),Constituency - Environmental,Non-Annex,0.25,Iniciativa Climática de Mexico (ICM),0,3,0.5,18,0.096072,0.140414,0,0.083029
+85,,Third Generation Environmentalism (E3G),Constituency - Environmental,Annex II,0.75,Third Generation Environmentalism (E3G),0,4,1.5,18,0.096117,0.142877,0.002943,0.087273
+1072,,Imperial College London,Constituency - Research and independent,Annex II,0.583333,Imperial College London,0,5,1.166667,18,0.098496,0.169971,0.003379,0.176639
+571,,Carnegie Mellon University (CMU),Constituency - Research and independent,Annex II,0.333333,Carnegie Mellon University (CMU),0,2,0.666667,18,0.097222,0.147557,0,0.074224
+485,,Business Council for Sustainable Energy (BCSE),Constituency - Business and Industry,Annex II,2.166667,Business Council for Sustainable Energy (BCSE),0,6,4.333333,16,0.114754,0.175636,0.02262,0.247018
+52,,CDP Worldwide (CDP),Constituency - Business and Industry,Annex II,0.333333,CDP Worldwide (CDP),0,2,0.666667,20,0.087765,0.116385,0,0.027665
+1125,,International Center for Environmental Technology Transfer (ICETT),Constituency - Environmental,Annex II,1,International Center for Environmental Technology Transfer (ICETT),0,3,2,20,0.087803,0.118848,0.000007,0.034039
+853,,Renewable Energy and Energy Efficiency Partnership (REEEP),Constituency - Environmental,Annex II,5.833333,Renewable Energy and Energy Efficiency Partnership (REEEP),0,5,3.666667,19,0.096117,0.139437,0.008749,0.069933
+61,,Nordic Environment Finance Corporation (NEFCO),IGO,Annex II,1.166667,Nordic Environment Finance Corporation (NEFCO),0,2,2.333333,20,0.087765,0.116385,0,0.027665
+554,,Swiss Federal Institute of Technology (ETH Zurich),Constituency - Research and independent,Annex II,0.533333,Swiss Federal Institute of Technology (ETH Zurich),0,6,1.066667,18,0.105895,0.159815,0.014424,0.154551
+649,,Institute of Development Studies (IDS),Constituency - Research and independent,Annex II,0.333333,Institute of Development Studies (IDS),0,2,0.666667,19,0.095981,0.132048,0,0.049318
+792,,Institute for Biodiversity Network e.V. (ibn),Constituency - Environmental,Annex II,0.5,Institute for Biodiversity Network e.V. (ibn),0,1,1,1,1,1,0,0.002734
+1545,,Association of Sustainable Ecological Engineering Development (ASEED),Constituency - Environmental,Non-Annex,0.5,Association of Sustainable Ecological Engineering Development (ASEED),0,1,1,1,1,1,0,0.002734
+1578,,World Bioenergy Association (WBA),Constituency - Business and Industry,Annex II,2.866667,World Bioenergy Association (WBA),0,5,5.733333,14,0.136242,0.183147,0.032996,0.199664
+1398,,International Solar Energy Society e.V. (ISES),Constituency - Environmental,Annex II,3.366667,International Solar Energy Society e.V. (ISES),0,5,4.733333,14,0.136242,0.183147,0.032996,0.199664
+623,,World Wind Energy Association (WWEA),Constituency - Business and Industry,Annex II,5.866667,World Wind Energy Association (WWEA),0,5,5.733333,14,0.136242,0.183147,0.032996,0.199664
+1464,,International Geothermal Association (IGA),Constituency - Business and Industry,Annex II,0.2,International Geothermal Association (IGA),0,4,0.4,15,0.12318,0.166693,0,0.175518
+71,,Demand Response and Smart Grid Coalition (DRSG),Constituency - Business and Industry,Annex II,2.283333,Demand Response and Smart Grid Coalition (DRSG),1,9,2.566667,15,0.126322,0.193869,0.097089,0.368165
+487,,Greenpeace International (GREENPEACE),Constituency - Environmental,No match,6.5,Greenpeace International (GREENPEACE),0,4,3,11,0.169308,0.222617,0.013401,0.182273
+997,,World Future Council (WFC),Constituency - Research and independent,Annex II,3.083333,World Future Council (WFC),0,12,6.166667,10,0.190253,0.265029,0.129827,0.414434
+1007,,Renewable Energy Policy Network (REN21),Constituency - Environmental,Annex II,1.916667,Renewable Energy Policy Network (REN21),0,7,3.833333,11,0.166121,0.222667,0.004807,0.22576
+204,,Sustainable Energy Africa (SEA),Constituency - Environmental,Non-Annex,0.666667,Sustainable Energy Africa (SEA),0,3,1.333333,11,0.163183,0.207115,0.003325,0.134996
+288,,Institute for Advanced Sustainability Studies (IASS),Constituency - Research and independent,Annex II,0.333333,Institute for Advanced Sustainability Studies (IASS),0,2,0.666667,11,0.161239,0.200641,0,0.116525
+1175,,Compensators e.V.,Constituency - Environmental,Annex II,0.25,Compensators e.V.,0,3,0.5,11,0.161367,0.203104,0,0.142962
+776,,Renewables Grid Initiative e.V. (RGI),Constituency - Environmental,Annex II,0.25,Renewables Grid Initiative e.V. (RGI),0,3,0.5,11,0.161367,0.203104,0,0.142962
+728,,Friedrich-Ebert-Stiftung e.V. (FES),Constituency - Research and independent,Annex II,0.25,Friedrich-Ebert-Stiftung e.V. (FES),0,3,0.5,11,0.166941,0.207845,0,0.148628
+1611,,Asociación La Ruta del Clima,Constituency - Environmental,Non-Annex,0.25,Asociación La Ruta del Clima,0,3,0.5,11,0.166941,0.207845,0,0.148628
+1696,,Coastal Development Partnership (CDPBD),Constituency - Environmental,Non-Annex,0.75,Coastal Development Partnership (CDPBD),0,8,1.5,11,0.174549,0.227348,0.112974,0.247519
+1395,,"International Centre for Energy, Environment and Development Foundation (ICEED Foundation)",Constituency - Environmental,Non-Annex,0.25,"International Centre for Energy, Environment and Development Foundation (ICEED Foundation)",0,3,0.5,11,0.166941,0.207845,0,0.148628
+1582,,Prakriti Resources Centre (PRC),Constituency - Environmental,Non-Annex,0.25,Prakriti Resources Centre (PRC),0,3,0.5,11,0.166941,0.207845,0,0.148628
+291,,European Union,Party,Non-Annex,1,European Union,1,2,2,17,0.114819,0.151255,0.002943,0.018901
+1115,,Estonia,Party,Annex I Only,0.5,Estonia,0,1,1,18,0.10336,0.13107,0,0.011505
+454,,International Chamber of Commerce (ICC),Constituency - Business and Industry,Annex II,0.5,International Chamber of Commerce (ICC),1,1,1,18,0.10336,0.13107,0,0.011505
+1663,,European Bank for Reconstruction and Development (EBRD),IGO,Annex II,0.333333,European Bank for Reconstruction and Development (EBRD),0,2,0.666667,1,1,1,0,0.010141
+891,,Kazakhstan,Party,Non-Annex,0.333333,Kazakhstan,1,2,0.666667,1,1,1,0,0.010141
+1649,,Climate Change Coordination Centre (C4),Constituency - Environmental,Non-Annex,0.333333,Climate Change Coordination Centre (C4),0,2,0.666667,1,1,1,0,0.010141
+1540,,"Jubilee South Asia Pacific Movement, Inc. (APMDD)",Constituency - Environmental,Non-Annex,1.583333,"Jubilee South Asia Pacific Movement, Inc. (APMDD)",0,7,3.166667,15,0.145311,0.218412,0.008608,0.246984
+1543,,All India Women's Conference (AIWC),Constituency - Women and Gender,Non-Annex,0.25,All India Women's Conference (AIWC),0,3,0.5,16,0.128889,0.179735,0,0.211115
+577,,International Network for Sustainable Energy (INFORSE),Constituency - Environmental,Annex II,4.7,International Network for Sustainable Energy (INFORSE),0,12,5.4,15,0.146148,0.22594,0.044079,0.567939
+896,,Association négaWatt,Constituency - Research and independent,Annex II,0.25,Association négaWatt,0,3,0.5,16,0.128889,0.179735,0,0.211115
+1037,,Women Environmental Programme (WEP),Constituency - Women and Gender,Non-Annex,0.5,Women Environmental Programme (WEP),0,1,1,17,0.113408,0.142662,0,0.015963
+401,,Climate and Health Limited,Constituency - Research and independent,Annex II,0.333333,Climate and Health Limited,0,2,0.666667,16,0.127593,0.169719,0,0.053389
+1123,,Fundación Bariloche (FB),Constituency - Research and independent,Non-Annex,0.5,Fundación Bariloche (FB),0,1,1,17,0.113408,0.142662,0,0.015963
+1205,,Clean Energy Nepal (CEN),Constituency - Environmental,Non-Annex,0.2,Clean Energy Nepal (CEN),0,4,0.4,14,0.138472,0.185218,0,0.131804
+245,,Press Club Brussels Europe,Constituency - Research and independent,Annex II,0.2,Press Club Brussels Europe,0,4,0.4,14,0.138472,0.185218,0,0.131804
+1773,,Movimiento Ciudadano frente al Cambio Climático (MOCICC),Constituency - Environmental,Non-Annex,0.533333,Movimiento Ciudadano frente al Cambio Climático (MOCICC),0,6,1.066667,14,0.145,0.211258,0.005495,0.236362
+753,,Fédération des travailleurs et des travailleuses du Québec (FTQ),Constituency - Others,Annex II,0.2,Fédération des travailleurs et des travailleuses du Québec (FTQ),0,4,0.4,14,0.138472,0.185218,0,0.131804
+20,,Academy for Mountain Environics (AME),Constituency - Environmental,Non-Annex,0.583333,Academy for Mountain Environics (AME),0,5,1.166667,15,0.137162,0.197328,0.003083,0.151383
+139,,Environmental Defence Canada Inc.,Constituency - Environmental,Annex II,1.033333,Environmental Defence Canada Inc.,0,7,2.066667,14,0.151606,0.226562,0.014105,0.36126
+609,,Environnement Jeunesse (ENJEU),Constituency - Environmental,Annex II,0.333333,Environnement Jeunesse (ENJEU),0,2,0.666667,15,0.13707,0.187186,0,0.102562
+1656,,University of Plymouth,Constituency - Research and independent,Annex II,0.25,University of Plymouth,0,3,0.5,12,0.154373,0.187429,0,0.091319
+248,,China Chamber of International Commerce (CCOIC),Constituency - Business and Industry,Non-Annex,0.25,China Chamber of International Commerce (CCOIC),0,3,0.5,12,0.154373,0.187429,0,0.091319
+1624,,PAIRVI Associates (PAIRVI),Constituency - Environmental,Non-Annex,0.583333,PAIRVI Associates (PAIRVI),0,4,1.166667,16,0.123705,0.174651,0.000309,0.100357
+408,,LINGO e.V.,Constituency - Environmental,Annex II,0.916667,LINGO e.V.,0,6,1.833333,15,0.137627,0.205641,0.007683,0.208753
+677,,Servicios Ecumenicos para Reconciliacion y Reconstruccion (SERR),Constituency - Environmental,Annex II,0.25,Servicios Ecumenicos para Reconciliacion y Reconstruccion (SERR),0,3,0.5,16,0.121194,0.164431,0,0.075439
+1058,,Asociación Interamericana para la Defensa del Ambiente (AIDA),Constituency - Environmental,Annex II,0.25,Asociación Interamericana para la Defensa del Ambiente (AIDA),0,3,0.5,16,0.121194,0.164431,0,0.075439
+387,,International Council for Mining and Metals (ICMM),Constituency - Business and Industry,Annex II,1.833333,International Council for Mining and Metals (ICMM),0,3,1.666667,1,1,1,0.000029,0.014746
+252,,Democratic Republic of the Congo,Party,Non-Annex,0.333333,Democratic Republic of the Congo,0,2,0.666667,2,0.75,0.833333,0,0.012215
+1139,,Natural Resource Governance Institute (NRGI),Constituency - Research and independent,Annex II,0.333333,Natural Resource Governance Institute (NRGI),0,2,0.666667,2,0.75,0.833333,0,0.012215
+921,,European Network for Community-Led Initiatives on Climate Change and Sustainability (ECOLISE),Constituency - Environmental,Annex II,0.25,European Network for Community-Led Initiatives on Climate Change and Sustainability (ECOLISE),0,3,0.5,16,0.128889,0.179735,0,0.236214
+174,,Global Ecovillage Network (GEN - International),Constituency - Environmental,Annex II,0.833333,Global Ecovillage Network (GEN - International),0,6,1.666667,16,0.129135,0.187125,0.001343,0.369394
+839,,Germany,Party,Annex II,3,Germany,0,1,2,1,1,1,0,0.002734
+1347,,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),Constituency - Environmental,Annex II,1,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ),0,1,2,1,1,1,0,0.002734
+1732,,Peace Boat Disaster Relief Volunteer Center (PBV),Constituency - Environmental,Annex II,0.5,Peace Boat Disaster Relief Volunteer Center (PBV),0,1,1,1,1,1,0,0.002734
+1608,,All China Environment Federation (ACEF),Constituency - Environmental,Non-Annex,0.5,All China Environment Federation (ACEF),1,1,1,1,1,1,0,0.002734
+272,,The Carbon Trust,Constituency - Environmental,Annex II,2.166667,The Carbon Trust,0,11,4.333333,18,0.098496,0.181054,0.031354,0.244048
+676,,Responding to Climate Change (RTCC),Constituency - Business and Industry,Annex II,1.5,Responding to Climate Change (RTCC),0,1,1,19,0.089704,0.134234,0,0.050106
+634,,Ecologic Institute,Constituency - Research and independent,Annex II,0.833333,Ecologic Institute,0,2,1.666667,15,0.135695,0.176744,0,0.062433
+1112,,Corporate Europe Observatory Foundation (CEO),Constituency - Research and independent,Annex II,0.616667,Corporate Europe Observatory Foundation (CEO),0,10,1.233333,13,0.164773,0.247671,0.013718,0.679328
+1710,,Friends of the Earth International (FOEI),Constituency - Environmental,No match,0.75,Friends of the Earth International (FOEI),0,9,1.5,13,0.161753,0.238587,0.009175,0.579367
+1421,,United Kingdom Youth Climate Coalition Limited (UKYCC),Constituency - Youth,Annex II,0.783333,United Kingdom Youth Climate Coalition Limited (UKYCC),0,8,1.566667,14,0.15508,0.23789,0.013695,0.528418
+131,,Duke University,Constituency - Research and independent,Annex II,0.5,Duke University,0,1,1,1,1,1,0,0.002734
+324,,German Marshall Fund of the United States (GMF),Constituency - Research and independent,Annex II,0.5,German Marshall Fund of the United States (GMF),0,1,1,1,1,1,0,0.002734
+1713,,"Deep South Center for Environmental Justice, Inc. (DSCEJ, INC.)",Constituency - Environmental,Annex II,0.2,"Deep South Center for Environmental Justice, Inc. (DSCEJ, INC.)",0,4,0.4,14,0.146465,0.205749,0,0.292612
+1423,,Waterkeeper Alliance,Constituency - Environmental,Annex II,0.2,Waterkeeper Alliance,0,4,0.4,14,0.146465,0.205749,0,0.292612
+236,,New Energy and Industrial Technology Development Organization (NEDO),Constituency - Research and independent,Annex II,0.25,New Energy and Industrial Technology Development Organization (NEDO),0,3,0.5,19,0.089783,0.13916,0,0.091612
+938,,Griha Council,Constituency - Research and independent,Non-Annex,0.25,Griha Council,0,3,0.5,19,0.089783,0.13916,0,0.091612
+974,,"Wuppertal Institute for Climate, Environment and Energy",Constituency - Environmental,Annex II,0.583333,"Wuppertal Institute for Climate, Environment and Energy",0,4,1.166667,19,0.089823,0.141623,0.000015,0.104294
+1197,,Global Carbon Capture and Storage Institute Ltd,Constituency - Business and Industry,Annex II,1.083333,Global Carbon Capture and Storage Institute Ltd,0,6,2.166667,17,0.107011,0.181931,0.047893,0.21268
+920,,Lund University (LU),Constituency - Research and independent,Annex II,0.333333,Lund University (LU),0,2,0.666667,19,0.089744,0.136697,0,0.072225
+757,,Global Industrial and Social Progress Research Institute (GISPRI),Constituency - Research and independent,Annex II,0.333333,Global Industrial and Social Progress Research Institute (GISPRI),0,2,0.666667,1,1,1,0,0.010141
+326,,"Institute of Energy Economics, Japan (IEEJ)",Constituency - Research and independent,Annex II,0.333333,"Institute of Energy Economics, Japan (IEEJ)",0,2,0.666667,1,1,1,0,0.010141
+846,,Keidanren,Constituency - Business and Industry,Annex II,0.333333,Keidanren,1,2,0.666667,1,1,1,0,0.010141
+1404,,Grassroots Global Justice Alliance (GGJ),Constituency - Environmental,Annex II,0.5,Grassroots Global Justice Alliance (GGJ),0,1,1,16,0.126954,0.167553,0,0.043558
+1050,,ClientEarth (CE),Constituency - Environmental,Annex II,0.333333,ClientEarth (CE),0,2,0.666667,13,0.145729,0.178328,0,0.033369
+886,,Union of Concerned Scientists (UCS),Constituency - Environmental,Annex II,0.333333,Union of Concerned Scientists (UCS),0,2,0.666667,13,0.145729,0.178328,0,0.033369
+1552,,Australian National University (ANU),Constituency - Research and independent,Annex II,0.5,Australian National University (ANU),0,1,1,1,1,1,0,0.002734
+1030,,Iran Renewable Energy Association (IrREA),Constituency - Environmental,Non-Annex,0.5,Iran Renewable Energy Association (IrREA),0,1,1,1,1,1,0,0.002734
+982,,"NGO Centre of Environmental Initiatives ""Ecoaction"" (NGO ""Ecoaction"")",Constituency - Environmental,Annex I Only,0.333333,"NGO Centre of Environmental Initiatives ""Ecoaction"" (NGO ""Ecoaction"")",0,2,0.666667,14,0.155199,0.203213,0,0.107568
+223,,Both ENDS Foundation (BE),Constituency - Environmental,No match,0.2,Both ENDS Foundation (BE),0,4,0.4,18,0.105619,0.152426,0,0.130956
+1479,,Zurich University of Applied Sciences (ZHAW),Constituency - Research and independent,Annex II,0.2,Zurich University of Applied Sciences (ZHAW),0,4,0.4,18,0.105619,0.152426,0,0.130956
+1141,,University of Zurich (UZH),Constituency - Research and independent,Annex II,0.2,University of Zurich (UZH),0,4,0.4,18,0.105619,0.152426,0,0.130956
+325,,United Kingdom of Great Britain and Northern Ireland,Party,Annex II,5.5,United Kingdom of Great Britain and Northern Ireland,0,1,1,19,0.087727,0.116711,0,0.019421
+1508,,Germanwatch,Constituency - Environmental,Annex II,0.333333,Germanwatch,0,2,0.666667,12,0.156394,0.195251,0,0.083173
+1466,,Sustainable Environmental Development Watch (SusWatch),Constituency - Environmental,Non-Annex,1.283333,Sustainable Environmental Development Watch (SusWatch),0,6,2.566667,16,0.129135,0.187125,0.000153,0.390819
+1220,,Christian Commission for Development in Bangladesh (CCDB),Constituency - Environmental,Non-Annex,0.2,Christian Commission for Development in Bangladesh (CCDB),0,4,0.4,16,0.127834,0.176287,0,0.267886
+321,,SustainableEnergy (SE),Constituency - Environmental,Annex II,0.7,SustainableEnergy (SE),0,4,1.4,16,0.127834,0.176287,0,0.267886
+832,,Integrated Sustainable Energy and Ecological Development Association (INSEDA),Constituency - Environmental,Non-Annex,1.616667,Integrated Sustainable Energy and Ecological Development Association (INSEDA),0,7,3.233333,16,0.129217,0.189588,0.000289,0.41367
+780,,Geres,Constituency - Environmental,Annex II,0.583333,Geres,0,5,1.166667,19,0.089982,0.146549,0.008742,0.103023
+1621,,Climate Alliance (Klima-Bündnis),Constituency - Others,Annex II,0.25,Climate Alliance (Klima-Bündnis),0,3,0.5,20,0.082655,0.121536,0,0.048022
+883,,The Heschel Center for Sustainability,Constituency - Environmental,Non-Annex,0.25,The Heschel Center for Sustainability,0,3,0.5,20,0.082655,0.121536,0,0.048022
+1632,,Climate Alliance Italy,Constituency - Others,Annex II,0.25,Climate Alliance Italy,0,3,0.5,20,0.082655,0.121536,0,0.048022
+788,,Canada,Party,Annex II,0.5,Canada,1,1,1,1,1,1,0,0.002734
+601,,Assembly of First Nations (AFN),Constituency - Indigenous peoples,Annex II,0.5,Assembly of First Nations (AFN),0,1,1,1,1,1,0,0.002734
+966,,Environnement et Developpement du Tiers-Monde (ENDA-TM),Constituency - Environmental,Non-Annex,0.333333,Environnement et Developpement du Tiers-Monde (ENDA-TM),0,2,0.666667,16,0.127673,0.171361,0,0.160862
+693,,Norway,Party,Annex II,0.333333,Norway,1,2,0.666667,15,0.137627,0.180517,0,0.069347
+1495,,University of East Anglia (UEA),Constituency - Research and independent,Annex II,0.5,University of East Anglia (UEA),0,1,1,15,0.134615,0.168451,0,0.035819
+597,,Institute of Electrical and Electronics Engineers (IEEE),Constituency - Others,Annex II,0.333333,Institute of Electrical and Electronics Engineers (IEEE),0,2,0.666667,17,0.104049,0.147037,0,0.088071
+1584,,Union of the Electricity Industry (Eurelectric),Constituency - Business and Industry,Annex II,0.666667,Union of the Electricity Industry (Eurelectric),0,4,1.333333,1,1,1,0.000058,0.024937
+377,,International Union of Railways (UIC),Constituency - Business and Industry,Annex II,0.333333,International Union of Railways (UIC),0,2,0.666667,2,0.666667,0.75,0,0.015673
+599,,International Association of Public Transport (UITP),Constituency - Others,Annex II,0.333333,International Association of Public Transport (UITP),0,2,0.666667,2,0.666667,0.75,0,0.015673
+1240,,KfW,Constituency - Business and Industry,Annex II,0.333333,KfW,0,2,0.666667,19,0.089863,0.13916,0,0.07339
+335,,Tunisia,Party,Non-Annex,0.5,Tunisia,0,1,1,1,1,1,0,0.002734
+1526,,Perspectives Climate Research gGmbH (PCR),Constituency - Research and independent,Annex II,0.5,Perspectives Climate Research gGmbH (PCR),0,1,1,1,1,1,0,0.002734
+806,,Indigenous Educational Network of Turtle Island (IENTI/IEN) (IEN),Constituency - Indigenous peoples,Annex II,0.166667,Indigenous Educational Network of Turtle Island (IENTI/IEN) (IEN),0,5,0.333333,13,0.156999,0.213921,0,0.387158
+1497,,Corporate Accountability International,Constituency - Environmental,Annex II,0.166667,Corporate Accountability International,0,5,0.333333,13,0.156999,0.213921,0,0.387158
+471,,Health of Mother Earth Foundation (HOMEF),Constituency - Environmental,Non-Annex,0.5,Health of Mother Earth Foundation (HOMEF),0,7,1,12,0.177293,0.247735,0.024787,0.480854
+111,,Global Forest Coalition (GFC),Constituency - Environmental,No match,1.166667,Global Forest Coalition (GFC),0,5,0.333333,13,0.156999,0.213921,0,0.387158
+1113,,IPIECA Limited (IPIECA),Constituency - Business and Industry,Annex II,1.5,IPIECA Limited (IPIECA),1,1,1,1,1,1,0,0.002734
+1743,,University College London (UCL),Constituency - Research and independent,Annex II,0.5,University College London (UCL),0,1,1,1,1,1,0,0.002734
+388,,Massachusetts Institute of Technology (MIT),Constituency - Research and independent,Annex II,0.5,Massachusetts Institute of Technology (MIT),0,1,1,18,0.10336,0.13107,0,0.011505
+1437,,Nuclear Industry Association (NIA),Constituency - Business and Industry,Annex II,0.166667,Nuclear Industry Association (NIA),0,5,0.333333,3,0.52381,0.666667,0,0.391328
+729,,Latin American Section of the American Nuclear Society (LAS/ANS),Constituency - Business and Industry,Non-Annex,0.166667,Latin American Section of the American Nuclear Society (LAS/ANS),0,5,0.333333,3,0.52381,0.666667,0,0.391328
+1572,,Saint Kitts and Nevis,Party,Non-Annex,0.5,Saint Kitts and Nevis,0,1,1,1,1,1,0,0.002734
+1590,,Foundation of Taiwan Industry Service (FTIS),Constituency - Environmental,Non-Annex,0.5,Foundation of Taiwan Industry Service (FTIS),0,1,1,1,1,1,0,0.002734
+656,,Kiko Network,Constituency - Environmental,Annex II,0.5,Kiko Network,0,1,1,14,0.14387,0.180976,0,0.055593
+417,,EarthAction,Constituency - Environmental,Annex II,0.5,EarthAction,0,1,1,15,0.139327,0.18286,0,0.087982
+1152,,Alliance to Save Energy (ASE),Constituency - Business and Industry,Annex II,1.416667,Alliance to Save Energy (ASE),0,5,2.833333,16,0.114754,0.173009,0.000316,0.247956
+959,,U.S. Green Building Council (USGBC),Constituency - Environmental,Annex II,1.333333,U.S. Green Building Council (USGBC),0,5,2.666667,16,0.113092,0.16291,0.001273,0.214159
+239,,"Corn Refiners Association, Inc. (CRA)",Constituency - Business and Industry,Annex II,1.333333,"Corn Refiners Association, Inc. (CRA)",0,5,2.666667,16,0.114754,0.173009,0.000316,0.247956
+242,,Edison Electric Institute (EEI),Constituency - Business and Industry,Annex II,0.333333,Edison Electric Institute (EEI),1,2,0.666667,17,0.103046,0.139977,0,0.083029
+916,,Fundación Ambiente y Recursos Naturales (FARN),Constituency - Environmental,Non-Annex,0.833333,Fundación Ambiente y Recursos Naturales (FARN),0,3,1.666667,15,0.138756,0.195668,0.009603,0.099611
+1069,,HATOF Foundation,Constituency - Environmental,Non-Annex,1,HATOF Foundation,0,1,2,1,1,1,0,0.002734
+540,,Ghana,Party,Non-Annex,1,Ghana,0,1,2,1,1,1,0,0.002734
+206,,"Action Group on Erosion, Technology and Concentration (ETC Group) (ETC Group)",Constituency - Environmental,Annex II,1.333333,"Action Group on Erosion, Technology and Concentration (ETC Group) (ETC Group)",0,2,0.666667,12,0.171598,0.221872,0,0.157676
+441,,Philippines,Party,Non-Annex,0.5,Philippines,0,1,1,2,0.6,0.666667,0,0.006671
+523,,Saudi Arabia,Party,Non-Annex,0.5,Saudi Arabia,0,1,1,18,0.096713,0.1391,0,0.041236
+1446,,International National Trusts Organisation (INTO),Constituency - Environmental,Annex II,0.333333,International National Trusts Organisation (INTO),0,2,0.666667,17,0.115538,0.157217,0,0.142599
+596,,National Carbon Sequestration Foundation (NCSF),Constituency - Others,Annex I Only,0.5,National Carbon Sequestration Foundation (NCSF),0,1,1,1,1,1,0,0.002734
+836,,Russian Federation,Party,Annex I Only,0.5,Russian Federation,1,1,1,1,1,1,0,0.002734
+927,,ParisTech (ParisTech),Constituency - Research and independent,Annex II,3,ParisTech (ParisTech),0,2,4,1,1,1,0,0.010141
+1682,,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech),Constituency - Research and independent,Annex II,1.5,Ecole Nationale Supérieure des Mines de Paris (Mines ParisTech),0,2,3,1,1,1,0,0.010141
+82,,Centre International de Recherche sur l'Environnement et le Développement (CIRED),Constituency - Research and independent,Annex II,1.5,Centre International de Recherche sur l'Environnement et le Développement (CIRED),0,2,3,1,1,1,0,0.010141
+1002,,Brazil,Party,Non-Annex,1.5,Brazil,1,1,1,1,1,1,0,0.002734
+575,,Center for Management and Strategic Studies (CGEE),Constituency - Research and independent,Non-Annex,0.5,Center for Management and Strategic Studies (CGEE),0,1,1,1,1,1,0,0.002734
+1622,,Zambia,Party,Non-Annex,0.5,Zambia,0,1,1,17,0.109848,0.13681,0,0.016499
+669,,International Council of Chemical Associations (ICCA),Constituency - Business and Industry,Annex II,1,International Council of Chemical Associations (ICCA),1,2,2,18,0.0958,0.135242,0.002943,0.036538
+1361,,European Chemical Industry Council (CEFIC),Constituency - Business and Industry,Annex II,0.5,European Chemical Industry Council (CEFIC),0,1,1,19,0.087462,0.113591,0,0.009082
+739,,Fraunhofer Institute for Systems and Innovation Research (FhG ISI),Constituency - Research and independent,Annex II,0.5,Fraunhofer Institute for Systems and Innovation Research (FhG ISI),0,1,1,1,1,1,0,0.002734
+356,,"Tokyo Institute of Technology, Japan (Tokyo Tech, Japan)",Constituency - Research and independent,Annex II,0.5,"Tokyo Institute of Technology, Japan (Tokyo Tech, Japan)",0,1,1,1,1,1,0,0.002734
+821,,Institute for European Environmental Policy (IEEP),Constituency - Environmental,Annex II,0.5,Institute for European Environmental Policy (IEEP),0,1,1,18,0.103046,0.127376,0,0.006483
+1160,,Global Call for Climate Action (GCCA),Constituency - Environmental,Annex II,0.5,Global Call for Climate Action (GCCA),0,1,1,15,0.13294,0.16395,0,0.020236
+1439,,The Climate Center,Constituency - Others,Annex II,0.5,The Climate Center,0,1,1,2,0.666667,0.75,0,0.004149
+228,,National Renewable Energy Laboratory/Alliance for Sustainable Energy (NREL),Constituency - Research and independent,Annex II,1,National Renewable Energy Laboratory/Alliance for Sustainable Energy (NREL),0,2,2,1,1,1,0.000015,0.006207
+551,,United States of America,Party,Annex II,1.5,United States of America,0,1,1,2,0.666667,0.75,0,0.004149
+332,,Sequoia Foundation,Constituency - Environmental,Annex II,0.333333,Sequoia Foundation,0,2,0.666667,1,1,1,0,0.010141
+1034,,Feasta Ltd (Feasta),Constituency - Research and independent,Annex II,0.333333,Feasta Ltd (Feasta),0,2,0.666667,1,1,1,0,0.010141
+333,,"Corporación Centro de Estudios de Derecho, Justicia y Sociedad (DEJUSTICIA)",Constituency - Research and independent,Non-Annex,0.333333,"Corporación Centro de Estudios de Derecho, Justicia y Sociedad (DEJUSTICIA)",0,2,0.666667,1,1,1,0,0.010141
+580,,Institute for Climate and Sustainable Cities (ICSC) (ICSC),Constituency - Research and independent,Non-Annex,0.5,Institute for Climate and Sustainable Cities (ICSC) (ICSC),0,1,1,1,1,1,0,0.002734
+703,,Smart Energy for Europe Platform (SEFEP) gGmbH,Constituency - Research and independent,Annex II,0.5,Smart Energy for Europe Platform (SEFEP) gGmbH,0,1,1,1,1,1,0,0.002734
+869,,Leadership for Environment and Development International (LEAD International),Constituency - Environmental,Annex II,0.333333,Leadership for Environment and Development International (LEAD International),0,2,0.666667,1,1,1,0,0.010141
+1619,,Kenya,Party,Non-Annex,0.333333,Kenya,0,2,0.666667,1,1,1,0,0.010141
+1670,,"Bill, Hillary & Chelsea Clinton Foundation (Clinton Foundation)",Constituency - Environmental,Annex II,0.333333,"Bill, Hillary & Chelsea Clinton Foundation (Clinton Foundation)",0,2,0.666667,1,1,1,0,0.010141
+845,,Centre for Environmental Justice (CEJ),Constituency - Environmental,Non-Annex,0.333333,Centre for Environmental Justice (CEJ),0,2,0.666667,14,0.139423,0.182338,0,0.107326
+1293,,Korean Federation for Environmental Movement (KFEM),Constituency - Environmental,Non-Annex,0.333333,Korean Federation for Environmental Movement (KFEM),0,2,0.666667,14,0.139423,0.182338,0,0.107326
+890,,Institute for Environment and Development Sustainability (IEDS),Constituency - Environmental,Non-Annex,0.5,Institute for Environment and Development Sustainability (IEDS),0,1,1,20,0.082286,0.112669,0,0.013037
+1330,,Energy Saving Trust,Constituency - Environmental,Annex II,0.5,Energy Saving Trust,0,1,1,19,0.089704,0.134234,0,0.050106
+1484,,"Fundación Desarrollo Sustentable, A.C. (FDS)",Constituency - Research and independent,Non-Annex,0.5,"Fundación Desarrollo Sustentable, A.C. (FDS)",0,1,1,1,1,1,0,0.002734
+915,,Centre for International Governance Innovation (CIGI),Constituency - Research and independent,Annex II,0.5,Centre for International Governance Innovation (CIGI),0,1,1,1,1,1,0,0.002734
+768,,The Kenya Climate Change Working Group Association (KCCWGA),Constituency - Environmental,Non-Annex,0.5,The Kenya Climate Change Working Group Association (KCCWGA),0,1,1,1,1,1,0,0.002734
+418,,Club UNESCO du centre d'action femme et enfant (CUCAFE),Constituency - Environmental,Non-Annex,0.5,Club UNESCO du centre d'action femme et enfant (CUCAFE),0,1,1,1,1,1,0,0.002734
+781,,EURONATURA - Centre for Environmental Law and Sustainable Development,Constituency - Environmental,Annex II,0.5,EURONATURA - Centre for Environmental Law and Sustainable Development,0,1,1,1,1,1,0,0.002734
+625,,Portugal,Party,Annex II,0.5,Portugal,0,1,1,1,1,1,0,0.002734
+1672,,International Partnership for Energy Efficiency Co (IPEEC),No match,No match,0.5,International Partnership for Energy Efficiency Co (IPEEC),0,1,1,1,1,1,0,0.002734
+1651,,Red Arg. de Municipios frente al Cambio Climático (RAMCC),No match,No match,0.5,Red Arg. de Municipios frente al Cambio Climático (RAMCC),0,1,1,1,1,1,0,0.002734
+724,,Organización para la Conservación de Cetáceos (OCC-Uruguay),No match,No match,0.333333,Organización para la Conservación de Cetáceos (OCC-Uruguay),0,2,0.666667,1,1,1,0,0.010141
+465,,Leonardo DiCaprio Foundation - Planet Pledge (LDF-PP),No match,No match,0.333333,Leonardo DiCaprio Foundation - Planet Pledge (LDF-PP),0,2,0.666667,1,1,1,0,0.010141
+114,,"Yes to Life, No to Mining (YLNM)",No match,No match,0.333333,"Yes to Life, No to Mining (YLNM)",0,2,0.666667,1,1,1,0,0.010141
+370,,Electriciens sans frontières,Constituency - Environmental,Annex II,0.333333,Electriciens sans frontières,0,2,0.666667,2,0.666667,0.75,0,0.015673
+191,,Union Française de l'Electricité (UFE),Constituency - Business and Industry,Annex II,0.333333,Union Française de l'Electricité (UFE),0,2,0.666667,2,0.666667,0.75,0,0.015673
+1680,,Argentina,Party,Non-Annex,1,Argentina,1,0,0,0,0,0,0,0
+222,,Asian Development Bank (ADB),IGO,Non-Annex,1,Asian Development Bank (ADB),0,0,0,0,0,0,0,0
+ind-0,,Belarus,Party,Annex I Only,1,,0,0,0,0,0,0,0,0
+1695,,Clean Air Task Force (CATF),Constituency - Research and independent,Annex II,1,Clean Air Task Force (CATF),0,0,0,0,0,0,0,0
+ind-1,,Climate Change Studio,No match,No match,5,,0,0,0,0,0,0,0,0
+1614,,Climate Institute (CI),Constituency - Research and independent,Annex II,1,Climate Institute (CI),0,0,0,0,0,0,0,0
+ind-2,,Council of European Energy Regulators (CEER),Constituency - Research and independent,Annex II,1,,0,0,0,0,0,0,0,0
+143,,EPIA SolarPower Europe (SPE),Constituency - Business and Industry,Annex II,3,EPIA SolarPower Europe (SPE),0,0,0,0,0,0,0,0
+ind-3,,Energy Carbon Fund (ECF),Constituency - Business and Industry,Annex I Only,1,,0,0,0,0,0,0,0,0
+1248,,Energy Research Centre of the Netherlands (ECN),Constituency - Research and independent,No match,1,Energy Research Centre of the Netherlands (ECN),0,0,0,0,0,0,0,0
+ind-4,,Energy Strategies (ES),Constituency - Environmental,Annex II,1,,0,0,0,0,0,0,0,0
+ind-5,,Environmental Institute of Munich,Constituency - Environmental,Annex II,1,,0,0,0,0,0,0,0,0
+ind-6,,European Renewable Energy Council (EREC),Constituency - Business and Industry,Annex II,3,,0,0,0,0,0,0,0,0
+784,,Federation of German Industries (BDI),Constituency - Business and Industry,Annex II,1,Federation of German Industries (BDI),0,0,0,0,0,0,0,0
+922,,Food and Agriculture Organization of the United Nations (FAO),UN,International,2,Food and Agriculture Organization of the United Nations (FAO),0,0,0,0,0,0,0,0
+ind-7,,Global Climate Action (GCA),UN,International,12,,0,0,0,0,0,0,0,0
+12,,Global Environment Centre (GEC),Constituency - Environmental,Non-Annex,1,Global Environment Centre (GEC),0,0,0,0,0,0,0,0
+713,,Global Environment Facility (GEF),No match,No match,2,Global Environment Facility (GEF),0,0,0,0,0,0,0,0
+1587,,Institut International du Froid (IIF),IGO,Annex II,1,Institut International du Froid (IIF),0,0,0,0,0,0,0,0
+ind-8,,Institute Research for the Upliftment and Prevention of Poverty (Nova Institute),Constituency - Research and independent,Non-Annex,1,,0,0,0,0,0,0,0,0
+64,,International Atomic Energy Agency (IAEA),UN,International,3,International Atomic Energy Agency (IAEA),0,0,0,0,0,0,0,0
+ind-9,,International Biochar Initiative (IBI),Constituency - Business and Industry,Annex II,2,,0,0,0,0,0,0,0,0
+116,,International Centre for Research in Agroforestry (ICRAF),IGO,Non-Annex,1,International Centre for Research in Agroforestry (ICRAF),0,0,0,0,0,0,0,0
+547,,International Centre for Trade and Sustainable Development (ICTSD),Constituency - Research and independent,Annex II,2,International Centre for Trade and Sustainable Development (ICTSD),0,0,0,0,0,0,0,0
+ind-10,,International Monetary Fund (IMF),UN,International,1,,0,0,0,0,0,0,0,0
+ind-11,,International Solar Alliance (ISA),IGO,Non-Annex,1,,0,0,0,0,0,0,0,0
+360,,International Union for Conservation of Nature (IUCN),IGO,Annex II,1,International Union for Conservation of Nature (IUCN),0,0,0,0,0,0,0,0
+697,,Italy,Party,Annex II,3,Italy,1,0,0,0,0,0,0,0
+942,,Lebanon,Party,Non-Annex,1,Lebanon,0,0,0,0,0,0,0,0
+1300,,Morocco,Party,Non-Annex,1,Morocco,1,0,0,0,0,0,0,0
+13,,Natural Resources Defense Council (NRDC),Constituency - Environmental,Annex II,1,Natural Resources Defense Council (NRDC),0,0,0,0,0,0,0,0
+1062,,One Sky - Canadian Institute of Sustainable Living (ONE SKY),Constituency - Environmental,Annex II,1,One Sky - Canadian Institute of Sustainable Living (ONE SKY),0,0,0,0,0,0,0,0
+ind-12,,Organization of American States (OAS),IGO,Annex II,1,,0,0,0,0,0,0,0,0
+592,,Rainforest Alliance (RA),Constituency - Environmental,Annex II,1,Rainforest Alliance (RA),0,0,0,0,0,0,0,0
+1089,,Regional Environmental Center for Central and Eastern Europe (REC),IGO,Annex I Only,1,Regional Environmental Center for Central and Eastern Europe (REC),0,0,0,0,0,0,0,0
+1460,,Resources for the Future (RFF),Constituency - Research and independent,Annex II,1,Resources for the Future (RFF),0,0,0,0,0,0,0,0
+113,,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC),UN,International,3,Secretariat of the United Nations Framework Convention on Climate Change (UNFCCC),0,0,0,0,0,0,0,0
+1712,,Singapore,Party,Non-Annex,1,Singapore,0,0,0,0,0,0,0,0
+1453,,Spain,Party,Annex II,2,Spain,0,0,0,0,0,0,0,0
+1593,,Switzerland,Party,Annex II,1,Switzerland,0,0,0,0,0,0,0,0
+873,,The Climate Group (TCG),Constituency - Business and Industry,Annex II,1,The Climate Group (TCG),0,0,0,0,0,0,0,0
+671,,The Corner House,Constituency - Environmental,Annex II,2,The Corner House,0,0,0,0,0,0,0,0
+217,,U.S. Climate Action Network (USCAN),Constituency - Environmental,Annex II,1,U.S. Climate Action Network (USCAN),0,0,0,0,0,0,0,0
+301,,UNICA - Brazilian Sugarcane Industry Association (UNICA),Constituency - Business and Industry,Non-Annex,1,UNICA - Brazilian Sugarcane Industry Association (UNICA),0,0,0,0,0,0,0,0
+983,,United Arab Emirates,Party,Non-Annex,1,United Arab Emirates,1,0,0,0,0,0,0,0
+ind-13,,United Nations (UN),UN,International,6,,0,0,0,0,0,0,0,0
+1164,,United Nations Conference on Trade and Development (UNCTAD),UN,International,1,United Nations Conference on Trade and Development (UNCTAD),0,0,0,0,0,0,0,0
+ind-14,,WindEurope,Constituency - Business and Industry,Annex II,1,,0,0,0,0,0,0,0,0
+430,,Women's International League for Peace and Freedom (WILPF),Constituency - Environmental,Annex II,2,Women's International League for Peace and Freedom (WILPF),0,0,0,0,0,0,0,0
+ind-15,,World Alliance for Decentralized Energy (WADE),Constituency - Business and Industry,Annex II,1,,0,0,0,0,0,0,0,0
+102,,World Business Council for Sustainable Development (WBCSD),Constituency - Business and Industry,Annex II,2,World Business Council for Sustainable Development (WBCSD),0,0,0,0,0,0,0,0
+ind-16,,World Coal Association (WCA),Constituency - Business and Industry,Annex II,1,,0,0,0,0,0,0,0,0
+ind-17,,World Environment Center (WEC),Constituency - Environmental,Annex II,1,,0,0,0,0,0,0,0,0
+1412,,World Meteorological Organization (WMO),UN,International,1,World Meteorological Organization (WMO),0,0,0,0,0,0,0,0
+24,,World Resources Institute (WRI),Constituency - Research and independent,Annex II,1,World Resources Institute (WRI),0,0,0,0,0,0,0,0
+365,,World Trade Organization (WTO),UN,International,1,World Trade Organization (WTO),0,0,0,0,0,0,0,0
+998,,Yayasan Pelangi (PELANGI),Constituency - Environmental,Non-Annex,1,Yayasan Pelangi (PELANGI),0,0,0,0,0,0,0,0

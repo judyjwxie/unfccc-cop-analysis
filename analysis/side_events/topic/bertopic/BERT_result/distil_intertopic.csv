@@ -1,0 +1,64 @@
+index,topic,size,x,y
+0,redd | forest | deforestation | indigenous | forests,332,6.1787896156311035,1.0997354984283447
+1,food | agriculture | systems | food systems | security,190,6.416178226470947,1.4451643228530884
+2,energy | renewable | renewable energy | clean | renewables,148,13.14279556274414,12.013001441955566
+3,rights | justice | human rights | human | law,147,-1.6297937631607056,6.946284294128418
+4,gender | women | womens | equality | gender equality,140,-1.5010147094726562,7.082067966461182
+5,transport | shipping | aviation | emissions | international,115,0.17039607465267181,8.373781204223633
+6,china | low carbon | low | asia | carbon,112,0.493693470954895,9.328337669372559
+7,cdm | cdm projects | project | projects | poas,102,-2.263364553451538,-10.835978507995605
+8,action | climate | subnational | regional | climate action,99,0.7037476897239685,8.789670944213867
+9,finance | climate finance | financial | climate | financing,99,1.659468412399292,8.90139389038086
+10,youth | children | young | young people | youth climate,88,7.776412487030029,-14.634404182434082
+11,ocean | oceans | coastal | marine | blue,75,5.993956089019775,1.6836241483688354
+12,latin | america | latin america | american | caribbean,72,0.39645975828170776,8.21151065826416
+13,technology | transfer | technology transfer | technologies | climate technology,71,12.878660202026367,12.305188179016113
+14,biodiversity | naturebased | naturebased solutions | biodiversity climate | nbs,60,6.433508396148682,1.207247257232666
+15,cities | urban | city | mayors | cities climate,58,0.7649001479148865,8.628640174865723
+16,water | water climate | water management | management | climate,56,6.801729202270508,0.5789497494697571
+17,carbon | markets | carbon markets | carbon pricing | pricing,55,-1.838178277015686,16.966632843017578
+18,just | just transition | transition | unions | jobs,51,-0.13242824375629425,8.77580451965332
+19,fossil | fossil fuel | fuel | coal | fossil fuels,50,13.425899505615234,12.044720649719238
+20,transparency | mrv | transparency framework | etf | enhanced transparency,48,0.3789004385471344,8.612947463989258
+21,indigenous | indigenous peoples | peoples | peoples local | arctic,48,-1.7076482772827148,6.873444080352783
+22,adaptation | adaptation climate | change adaptation | climate change | change,47,6.757421970367432,0.4551928639411926
+23,north | california | states | subnational | north america,46,0.877031683921814,8.1480073928833
+24,net | net zero | zero | netzero | transition,44,12.9906005859375,12.187773704528809
+25,ghg | ghg emissions | emissions | reduction | emission,42,0.4722021520137787,9.50380802154541
+26,displacement | human mobility | migrants | migration | human,41,-1.309996247291565,7.280063629150391
+27,africa | african | west | climate change | cc,36,7.342039585113525,0.6918781399726868
+28,kyoto | kyoto protocol | protocol | postkyoto | russian,36,0.5953800678253174,7.95949649810791
+29,health | climate health | public health | health systems | climate change,36,-1.6985265016555786,6.880337715148926
+30,disaster | risk | disaster risk | risk reduction | reduction,35,6.365723133087158,-0.06391630321741104
+31,equity | stocktake | global stocktake | ambition | global,35,1.556169033050537,8.735376358032227
+32,ndcs | ndc | implementation | ndc implementation | implementation ndcs,33,-2.192267894744873,-10.907408714294434
+33,nap | naps | national adaptation | adaptation | leg,33,-1.8408668041229248,-11.260603904724121
+34,arctic | ice | cryosphere | melting | rise,33,16.508867263793945,9.494454383850098
+35,namas | nama | registry | namas event | design,32,-1.6369296312332153,-11.464372634887695
+36,arab | region | gulf | arab region | arid,31,0.97613525390625,8.616121292114258
+37,ccs | storage | capture | capture storage | carbon capture,30,-1.8237653970718384,16.955013275146484
+38,observations | observation | earth | gcos | systematic,30,16.386871337890625,9.615965843200684
+39,education | change education | climate change | change | cce,28,7.740496635437012,-14.59850025177002
+40,mountain | mountains | mountain regions | ecosystems | change mountain,26,6.896869659423828,0.3637014329433441
+41,bioenergy | biofuels | biochar | change mitigation | sustainable,26,12.933340072631836,11.852531433105469
+42,national communications | communications | parties | nonannex parties | nonannex,25,-2.161069869995117,-10.938013076782227
+43,business | industry | businesses | industry day | day,25,0.2782415747642517,8.82319450378418
+44,article | capacity building | 64 | article paris | capacitybuilding,24,-2.3570775985717773,-4.388853073120117
+45,loss damage | damage | loss | international mechanism | damage fund,24,6.103819847106934,-0.1474389135837555
+46,peatlands | peatland | wetlands | restoration | emissions,24,6.071141242980957,0.9199855923652649
+47,islands | pacific | island | pacific islands | small,23,5.94852352142334,1.750143051147461
+48,gcf | green climate | climate fund | fund | green,22,1.7547796964645386,9.000081062316895
+49,paris agreement | paris | business | agreement | business engagement,21,-2.3007469177246094,-4.445272445678711
+50,air | pollutants | shortlived | climate pollutants | air quality,21,0.8354949355125427,8.284231185913086
+51,trading | emissions trading | eu | trading scheme | emissions,20,-1.8690590858459473,16.99294090270996
+52,momentum change | momentum | ict | urban poor | winners,20,7.359146595001221,-14.217066764831543
+53,citizens | public | arts | citizen | participation,19,7.552269458770752,-14.410163879394531
+54,adaptation fund | fund | adaptation | af | projects,19,-1.7517569065093994,-11.349486351013184
+55,hadley | hadley centre | centre | met | predictions,18,16.53255271911621,9.470829963684082
+56,africa | africa day | african | africas | day,18,7.425090312957764,0.7622065544128418
+57,insurance | risk | climate risk | risk reduction | risk insurance,17,6.144469738006592,-0.17594014108181
+58,ipcc | report | assessment report | synthesis report | ipccs,17,-2.168799877166748,-4.577049732208252
+59,french | paris | games | frenchspeaking | 15c,17,0.6592427492141724,8.411881446838379
+60,buildings | construction | built environment | building | built,16,13.211983680725098,12.027501106262207
+61,nuclear | nuclear energy | nuclear power | power | energy,16,13.299874305725098,11.692835807800293
+62,energy | poverty | africa | local | east,15,12.905584335327148,12.316034317016602
