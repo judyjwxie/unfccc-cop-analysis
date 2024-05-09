@@ -15,18 +15,3 @@ def write_to_file_and_display(video_urls, file_name='data/side_events/youtube_tr
 playlist_url = 'https://www.youtube.com/playlist?list=PLBcZ22cUY9RLMkm-apVgzZ8JSi0Tsywd3' 
 video_urls = get_video_links_from_playlist(playlist_url) 
 write_to_file_and_display(video_urls)  
-
-"""
-from googleapiclient.discovery import build
-
-def get_playlist_details(playlist_id):
-    youtube = build('youtube', 'v3', developerKey='AIzaSyDmzF2LYQTNsVGLyR-2B5B9DjH0bYzEPl8')
-    request = youtube.playlists().list(part='snippet', id=playlist_id)
-    response = request.execute()
-    return response
-
-playlist_id = 'PLBcZ22cUY9RLMkm-apVgzZ8JSi0Tsywd3'
-details = get_playlist_details(playlist_id)
-print(details)
-
-"""
