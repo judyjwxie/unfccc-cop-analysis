@@ -1,4 +1,4 @@
-# Tracing procedural justice at UNFCCC conferences through side events and interest group dynamics 
+# Tracing inclusivity at UNFCCC conferences through side events and interest group dynamics 
 This GitHub repository contains the source code for tracing UNFCCC COP side event topics and network relationships of their organisers. This work uses open-source secondary data and the data sources can be found in the Methods section of the manuscript. 
 
 Any correspondence can be made to Judy Xie: j.xie20@imperial.ac.uk 
